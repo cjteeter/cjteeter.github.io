@@ -1,0 +1,1 @@
+This repository contains files used to generate [my website](https://www.cteeter.ca).
