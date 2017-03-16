@@ -23,7 +23,4 @@ Head over to BP Boston and read my work: [The Red Sox's Barrel Blast](http://bos
 This work was featured in Alex Speier's [*108 Stitches Newsletter*](http://pages.email.bostonglobe.com/108StitchesSignUp/?s_campaign=108stitches:newsletter). 
 Speier is an excellent Red Sox beat writer for The Boston Globe, so it is nice to have his recognition. Here is what he wrote about my article:
 
-BARREL BONANZA: Chris Teeter of Baseball Prospectus [examines the quality of contact made by members of the Red Sox in 2016](http://boston.locals.baseballprospectus.com/2017/03/14/the-red-soxs-barrel-blast/). 
-While David Ortiz produced consistently great contact that will be hard to replace, Teeter finds that Moreland 
-showed a reliable ability to produce “barrels” – a Statcast measurement of balls with a launch angle and exit velocity 
-likely to result in extra-base hits.
+> *BARREL BONANZA: Chris Teeter of Baseball Prospectus [examines the quality of contact made by members of the Red Sox in 2016](http://boston.locals.baseballprospectus.com/2017/03/14/the-red-soxs-barrel-blast/). While David Ortiz produced consistently great contact that will be hard to replace, Teeter finds that Moreland showed a reliable ability to produce “barrels” – a Statcast measurement of balls with a launch angle and exit velocity likely to result in extra-base hits.*
