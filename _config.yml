@@ -91,7 +91,7 @@ url-pretty: "cteeter.ca"  # eg. "deanattali.com/beautiful-jekyll"
 disqus: "cjteeter"
 
 # Fill in your Google Analytics ID to track your website using GA
-google_analytics: "49641300"
+google_analytics: "UA-49641300-2"
 
 # Google Tag Manager ID
 #gtm: ""
