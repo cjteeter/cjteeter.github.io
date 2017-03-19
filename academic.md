@@ -4,9 +4,10 @@ title: Academic Pursuits
 subtitle: Brief descriptions of my academic research and teaching.
 use-site-title: true
 show-avatar: true
+
 ---
 
-For more complete records of my academic career, see the PDF versions of my curriculum vitae and [teaching dossier]({{site.url}}/assets/Teeter_TeachingDossier_July2015.pdf).
+For more complete records of my academic career, see the PDF versions of my [curriculum vitae]({{site.url}}/assets/Teeter_CV_Mar-2017.pdf) and [teaching dossier]({{site.url}}/assets/Teeter_TeachingDossier_July2015.pdf).
 
 
 # Research 
