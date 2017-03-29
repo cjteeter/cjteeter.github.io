@@ -9,7 +9,7 @@ css: /css/search.css
 ---
 
 For now, searching is done through a Google search function customized for this site. It comes
-with ads, which is not great, but that keeps it free.
+with ads, which is not great, but it does the trick.
 
 <div id="google-custom-search">
 <script>
