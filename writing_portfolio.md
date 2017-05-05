@@ -11,10 +11,10 @@ For the last three years I have been contributing writing/research to analytical
 as an experimental cognitive psychologist I have extensive experience generating questions, and then obtaining, cleaning,
 and analyzing data to respond to those questions. The articles linked below (listed chronologically) demonstrate this well. 
 
+- [Dustin Pedroia and the Utley Rule](http://boston.locals.baseballprospectus.com/2017/05/02/dustin-pedroia-and-the-utley-rule/)
+(BP Boston; May 2, 2017)
 - [The Red Sox and the Instant Replay Challenge System](http://boston.locals.baseballprospectus.com/2017/03/08/the-red-sox-and-the-instant-replay-challenge-system/)
 (BP Boston; March 8, 2017)
-- [*Read Sox*: Lineup Optimization, Setting the Rotation, and Rusney Castillo's Rejuvenation](http://boston.locals.baseballprospectus.com/2017/01/18/read-sox-lineup-optimization-setting-the-rotation-and-rusney-castillos-rejuvination/)
-(BP Boston; January 18, 2017)
 - [Joe Kelly, The Bullpen, Two Birds and One Stone](http://boston.locals.baseballprospectus.com/2015/06/19/joe-kelly-the-bullpen-two-birds-and-one-stone/)
 (BP Boston; June 19, 2015)
 - [Terry Francona has Changed his Managerial Ways](http://www.beyondtheboxscore.com/2015/9/17/9342009/terry-francona-run-environment-sacrifice-bunt-cleveland-indians-boston-red-sox?_ga=1.240945027.1662209441.1489188037)
