@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Don't Need Frazier! Don't Need Frazier
+title: Don't Need Frazier! Don't Need Frazier!
 use-site-title: true
 comments: false
 tags:
