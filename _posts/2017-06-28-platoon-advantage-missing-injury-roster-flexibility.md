@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Red Sox's Contact-Heavy Approach
+title: Roster Inflexibility and the Platoon Advantage
 use-site-title: true
 comments: false
 tags:
