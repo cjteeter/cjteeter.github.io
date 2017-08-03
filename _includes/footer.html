@@ -17,7 +17,7 @@
           <li>
             <a href="mailto:{{ site.author.email }}" title="Email me">
               <span class="fa-stack fa-lg">
-                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-circle fa-stack-2x" style="color: #ec2323;"></i>
                 <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
               </span>
             </a>
@@ -27,7 +27,7 @@
           <li>
             <a href="https://twitter.com/{{ site.author.twitter }}" title="Twitter">
               <span class="fa-stack fa-lg">
-                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-circle fa-stack-2x" style="color:#285f9f;"></i>
                 <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
               </span>
             </a>
@@ -147,7 +147,7 @@
 		  <li>
 			<a href="{{ '/feed.xml' | prepend: site.baseurl }}" title="RSS">
 			  <span class="fa-stack fa-lg">
-				<i class="fa fa-circle fa-stack-2x"></i>
+				<i class="fa fa-circle fa-stack-2x" style="color:#FFA500;"></i>
 				<i class="fa fa-rss fa-stack-1x fa-inverse"></i>
 			  </span>
 			</a>
@@ -155,7 +155,7 @@
           {% endif %}
         </ul>
         <p class="copyright text-muted">
-		  {{ site.author.name }}
+		  &copy; {{ site.author.name }}
 		  &nbsp;&bull;&nbsp;
 		  {{ site.time | date: '%Y' }}
 
@@ -165,10 +165,10 @@
 		  {% endif %}
 	    </p>
 	        <!-- Please don't remove this, keep my open source work credited :) -->
-		<p class="theme-by text-muted">
+		<!--<p class="theme-by text-muted">
 		  Theme by
 		  <a href="http://deanattali.com/beautiful-jekyll/">beautiful-jekyll</a>
-		</p>
+		</p> -->
       </div>
     </div>
   </div>
