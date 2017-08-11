@@ -7,9 +7,8 @@ comments: false
 show-avatar: true
 ---
 
-For the last three years I have been contributing writing/research to analytically-inclined baseball websites. From my training 
-as an experimental cognitive psychologist I have extensive experience generating questions, and then obtaining, cleaning,
-and analyzing data to respond to those questions. The articles linked below (listed chronologically) demonstrate this well. 
+For the last three years I have been contributing writing and research to analytically-inclined baseball websites. Here you can find links to
+some of what I consider my best work. The articles are listed chronologically. 
 
 - [Dustin Pedroia and the Utley Rule](http://boston.locals.baseballprospectus.com/2017/05/02/dustin-pedroia-and-the-utley-rule/)
 (BP Boston; May 2, 2017)
@@ -43,7 +42,7 @@ and analyzing data to respond to those questions. The articles linked below (lis
 (Beyond the Box Score; January 15, 2014)
 
 
-I re-post everything from the sites at which I contribute to this site. You can find links on the [main page]({{site.url}}) or at my [previous website](https://christopherteeter.wordpress.com/), 
+These pieces are just a selection of my work, but I re-post everything from the sites at which I contribute to this site. You can find links on the [main page]({{site.url}}) or at my [previous website](https://christopherteeter.wordpress.com/), 
 which has a complete pre-2017 writing archive.
 
 Feel free to contact me with any comments or questions.
