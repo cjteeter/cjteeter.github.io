@@ -19,7 +19,7 @@ Before getting myself into baseball analysis and writing, I trained as a cogniti
 and then completed a Ph.D. at [McMaster University](https://www.science.mcmaster.ca/pnb/). My doctoral research focused on
 understanding the human spatial memory system. Specifically, I examined spatial reference frames and the contribution of body-based information for spatial 
 updating. After completing my doctoral degree, I started a postdoctoral fellowship in the Applied Cognition in Education Laboratory at McMaster University.
-My postdoctoral fellowship was centred around applying established principles of human memory and attention to refining processes of teaching and learning.  
+My postdoctoral fellowship was centred around applying established principles of human memory and attention to refining processes of teaching and learning. 
 While I have not been active in the field for the last few years, I am still very interested in this topic and the higher education system in Canada. As such,
 I am currently working as a Policy and Research Analyst at the [Maritime Provinces Higher Education Commission (MPHEC)](http://www.mphec.ca). For more 
 information on my past academic pursuits, check out my [academic life](/academic/) page. 
