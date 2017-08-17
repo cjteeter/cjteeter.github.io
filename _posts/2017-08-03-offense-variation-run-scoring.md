@@ -18,7 +18,9 @@ Compare that situation with another team that averages 6 runs per game but does 
 half of their games, and I suspect you will find this 7-or-5 (low variance team) would be considerably better than the .500 mark and the 11-or-1 (high variance) team. 
 Of course this depends on the team's pitching and defense, but, as noted, the 11-or-1 team is making life difficult for their pitchers while the 7-or-5 team 
 is giving their pitchers some leeway night-in and night-out. This example, while neatly contrived, demonstrates how only looking at a team's average runs 
-per game can miss an aspect of the offense's quality. With the importance of variability in run scoring in mind, I looked into the 
+per game can miss an aspect of the offense's quality. 
+
+With the importance of variability in run scoring in mind, I looked into the 
 variability in the Red Sox's offense and found that they have been more of a high-variance group. They average a good-not-great 4.65 runs per game, but due to
 their variable ways it is difficult to know what the offense is going to do night-to-night. Knock-around the trade deadline's would-be [prized starting pitcher](https://www.baseball-reference.com/boxes/TEX/TEX201707040.shtml),
 or get [shutdown by an unheralded rookie](https://www.baseball-reference.com/boxes/PHI/PHI201706150.shtml) with an ERA of 5.52 making his [seventh career start](https://www.baseball-reference.com/players/gl.fcgi?id=pivetni01&t=p&year=2017). 
