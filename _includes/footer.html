@@ -15,7 +15,7 @@
           {% endif %}
           {% if site.author.email and site.footer-links-active.email %}
           <li>
-            <a href="mailto:{{ site.author.email }}" title="Email me">
+            <a href="mailto:{{ site.author.email }}" title="Email me" target="_blank">
               <span class="fa-stack fa-lg">
                 <i class="fa fa-circle fa-stack-2x" style="color: #ec2323;"></i>
                 <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
@@ -25,7 +25,7 @@
           {% endif %}
           {% if site.author.twitter and site.footer-links-active.twitter %}
           <li>
-            <a href="https://twitter.com/{{ site.author.twitter }}" title="Twitter">
+            <a href="https://twitter.com/{{ site.author.twitter }}" title="Twitter" target="_blank">
               <span class="fa-stack fa-lg">
                 <i class="fa fa-circle fa-stack-2x" style="color:#285f9f;"></i>
                 <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
@@ -145,7 +145,7 @@
         {% endif %}
 		  {% if site.footer-links-active.rss %}
 		  <li>
-			<a href="{{ '/feed.xml' | prepend: site.baseurl }}" title="RSS">
+			<a href="{{ '/feed.xml' | prepend: site.baseurl }}" title="RSS" target="_blank">
 			  <span class="fa-stack fa-lg">
 				<i class="fa fa-circle fa-stack-2x" style="color:#FFA500;"></i>
 				<i class="fa fa-rss fa-stack-1x fa-inverse"></i>
