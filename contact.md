@@ -22,7 +22,7 @@ You can do so using the form below:
   <input type="hidden" name="_subject" value="New submission from cteeter.ca">
   <textarea type="text" name="content" class="form-control input-lg" placeholder="Message" title="Message" required="required" rows="3"></textarea>
   <input type="text" name="_gotcha" style="display:none">
-  <input type="hidden" name="_next" value="./contact?message=Your message was sent to Chris. Thanks!"/>
+  <input type="hidden" name="_next" value="./contact/?message=Your message was sent to Chris. Thanks!"/>
   <button type="submit" class="btn btn-lg btn-primary">Submit</button>
 </form>
 
