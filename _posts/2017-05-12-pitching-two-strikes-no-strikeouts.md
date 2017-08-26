@@ -17,9 +17,9 @@ throw 100 mph with seemingly little effort -- easy cheese as Dennis Eckersley wo
 Interestingly enough, Kelly's bullpenmate Heath Hembree is also fairly extreme with this pattern of struggling to get the third strike after getting the second. 
 Ideally, for Red Sox fans anyway, both work on developing their put-away pitch and start increasing the strikeout totals.
 
-Read the complete piece at BP Boston: [When the Strikeout Never Comes](http://www.baseballprospectus.com/article.php?articleid=31821)
+Read the complete piece at BP Boston: <a href = "http://www.baseballprospectus.com/article.php?articleid=31821" target = "_blank"> When the Strikeout Never Comes</a>
 
 ***
 
-*Note: This article was reposted to Baseball Prospectus' [main page](http://www.baseballprospectus.com/) for the weekend, which was 
+*Note: This article was reposted to Baseball Prospectus' <a href = "http://www.baseballprospectus.com/" target = "_blank"> main page</a> for the weekend, which was 
 an exciting development.*

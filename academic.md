@@ -42,13 +42,13 @@ performance and sense of self-efficacy, leading to improvements in academic outc
 various support systems on the McMaster University campus, I examined the influence of a facilitated learning group program that explicitly 
 taught transferable academic skills to first year students.
 
-This research was conducted under the supervision of [Dr. Joe Kim](http://www.josephkim.ca/). Below, I have provided links to a recent lecture that Joe gave related 
+This research was conducted under the supervision of <a href = "https://twitter.com/ProfJoeKim" target = "_blank"> Dr. Joe Kim</a>. Below, I have provided links to a recent lecture that Joe gave related 
 to the research conducted in our lab, and to media coverage of the research that we conducted.
 
-- Lecture - [The Science of Instructional Design and University 2.0](http://www.youtube.com/watch?v=7znKw2Ir7iM) [starts at 13:10]
-- Article in the Toronto Star - [Ontario considers sweeping change to colleges and universities](http://www.thestar.com/news/gta/education/article/1250342--ontario-considers-sweeping-change-to-colleges-and-universities).
-- Article in the Toronto Star - [Research shows cramming for tests is bad](http://www.thestar.com/yourtoronto/education/2013/11/15/school_exams_mom_and_dad_were_right_research_proves_cramming_for_tests_is_bad.html).
-- Article in the Hamilton Spectator - [McMaster Symposium tackles learning techniques](http://www.thespec.com/news-story/4220473-mac-symposium-tackles-learning-techniques/).
+- Lecture - <a href = "http://www.youtube.com/watch?v=7znKw2Ir7iM" target = "_blank"> The Science of Instructional Design and University 2.0</a>. [starts at 13:10]
+- Article in the Toronto Star - <a href = "http://www.thestar.com/news/gta/education/article/1250342--ontario-considers-sweeping-change-to-colleges-and-universities" target = "_blank"> Ontario considers sweeping change to colleges and universities</a>.
+- Article in the Toronto Star - <a href = "http://www.thestar.com/yourtoronto/education/2013/11/15/school_exams_mom_and_dad_were_right_research_proves_cramming_for_tests_is_bad.html" target = "_blank"> Research shows cramming for tests is bad</a>.
+- Article in the Hamilton Spectator - <a href = "http://www.thespec.com/news-story/4220473-mac-symposium-tackles-learning-techniques/" target = "_blank"> McMaster Symposium tackles learning techniques</a>.
 
 
 ## Spatial Cognition
@@ -70,7 +70,7 @@ Here are a few of the questions I pursued as part of my doctoral research:
 3. Are different features of an environment remembered differently?
 4. How is spatial memory different/similar from other forms of memory?
 
-This research was conducted under the supervision of [Dr. Hong-Jin Sun](http://vr.mcmaster.ca/lab/).
+This research was conducted under the supervision of <a href = "http://vr.mcmaster.ca/lab/" target = "_blank"> Dr. Hong-Jin Sun</a>.
 
 
 # Teaching
@@ -88,4 +88,4 @@ Having completed the Facilitator Development Workshop (FDW), I am a qualified fa
 ISW is a small group workshop aimed at enhancing teaching effectiveness of new and experienced educators. Throughout the workshop participants 
 focus on reflection and examination of their own teaching practices, which is facilitated through peer-feedback.
 
-More information about the ISW can be found on the ISW network's [website](https://iswnetwork.ca/about/isw-program-in-detail/).
+More information about the ISW can be found on the ISW network's <a href = "https://iswnetwork.ca/about/isw-program-in-detail/" target = "_blank"> website</a>.

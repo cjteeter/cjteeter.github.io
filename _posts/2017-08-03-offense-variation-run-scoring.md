@@ -22,10 +22,10 @@ per game can miss an aspect of the offense's quality.
 
 With the importance of variability in run scoring in mind, I looked into the 
 variability in the Red Sox's offense and found that they have been more of a high-variance group. They average a good-not-great 4.65 runs per game, but due to
-their variable ways it is difficult to know what the offense is going to do night-to-night. Knock-around the trade deadline's would-be [prized starting pitcher](https://www.baseball-reference.com/boxes/TEX/TEX201707040.shtml),
-or get [shutdown by an unheralded rookie](https://www.baseball-reference.com/boxes/PHI/PHI201706150.shtml) with an ERA of 5.52 making his [seventh career start](https://www.baseball-reference.com/players/gl.fcgi?id=pivetni01&t=p&year=2017). 
+their variable ways it is difficult to know what the offense is going to do night-to-night. Knock-around the trade deadline's would-be <a href = "https://www.baseball-reference.com/boxes/TEX/TEX201707040.shtml" target = "_blank"> prized starting pitcher</a>,
+or get <a href = "https://www.baseball-reference.com/boxes/PHI/PHI201706150.shtml" target = "_blank"> shutdown by an unheralded rookie</a> with an ERA of 5.52 making his <a href = "https://www.baseball-reference.com/players/gl.fcgi?id=pivetni01&t=p&year=2017" target = "_blank"> seventh career start</a>. 
 Those are cherry-picked examples for sure, but they demonstrate the idea. The Red Sox's offense has been a bit of a roller-coaster. They just have not hit 
 that run of consistent strong output that we have been waiting for all season. Hopefully it comes in the next few weeks.
 
 Read the rest of my thoughts on the variability of the Red Sox's offense at BP Boston:
-[Variations on a Team](http://boston.locals.baseballprospectus.com/2017/08/01/variations-on-a-team/)
+<a href = "http://boston.locals.baseballprospectus.com/2017/08/01/variations-on-a-team/" target = "_blank"> Variations on a Team</a>

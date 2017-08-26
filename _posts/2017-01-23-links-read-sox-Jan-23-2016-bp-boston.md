@@ -18,8 +18,8 @@ big leagues, how Rusney Castillo has breathed life back into his career, and how
 not be as smooth as many of us are expecting.
 
 This was a fun edition to write. Go check it out: 
-[*Read Sox*: Lineup Optimization, Setting the Rotation, and Rusney Castillo's Rejuvenation](http://boston.locals.baseballprospectus.com/2017/01/18/read-sox-lineup-optimization-setting-the-rotation-and-rusney-castillos-rejuvination/).
+<a href = "http://boston.locals.baseballprospectus.com/2017/01/18/read-sox-lineup-optimization-setting-the-rotation-and-rusney-castillos-rejuvination/" target = "_blank"> *Read Sox*: Lineup Optimization, Setting the Rotation, and Rusney Castillo's Rejuvenation</a>.
 
 ***
 
-*Note: This post is a copy of a post from my [previous site](https://christopherteeter.wordpress.com/).*
+*Note: This post is a copy of a post from my <a href = "https://christopherteeter.wordpress.com/" target = "_blank"> previous site</a>.*

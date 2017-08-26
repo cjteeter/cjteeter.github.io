@@ -22,4 +22,4 @@ the fellas against a common cause (the media coverage of the team) in an effort 
 that a team of professional basebball players need a common enemy in order to play well is silly to me, but here we are. This 
 story has gotten out of control and regardless of how the season unfolds, it will be part of the narrative. 
 
-Read my assessment of David Price and his motivations at BP Boston: [Deconstructing David Price](http://boston.locals.baseballprospectus.com/2017/07/25/deconstructing-david-price/)
+Read my assessment of David Price and his motivations at BP Boston: <a href = "http://boston.locals.baseballprospectus.com/2017/07/25/deconstructing-david-price/" target = "_blank"> Deconstructing David Price</a>

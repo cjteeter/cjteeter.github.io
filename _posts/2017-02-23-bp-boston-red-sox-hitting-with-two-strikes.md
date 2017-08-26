@@ -20,8 +20,8 @@ two-strike counts. As a group the Red Sox were much better than the rest of the 
 on an individual level many of the everyday players outperformed their historical level. As we saw that makes for a potent 
 offense, but also suggests there is some regression coming this season.
 
-Head over to BP Boston to check it out: [Hitting with Two Strikes: Can the Red Sox Do It Again?](http://boston.locals.baseballprospectus.com/2017/02/14/hitting-with-two-strikes-can-the-red-sox-do-it-again/)
+Head over to BP Boston to check it out: <a href = "http://boston.locals.baseballprospectus.com/2017/02/14/hitting-with-two-strikes-can-the-red-sox-do-it-again/" target = "_blank"> Hitting with Two Strikes: Can the Red Sox Do It Again?</a>
 
 ***
 
-*Note: This post is a copy of a post from my [previous site](https://christopherteeter.wordpress.com/).*
+*Note: This post is a copy of a post from my <a href = "https://christopherteeter.wordpress.com/" target = "_blank"> previous site</a>.*

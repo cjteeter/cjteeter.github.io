@@ -18,11 +18,11 @@ Mookie Betts, in particular, has been playing well below his 2016 level. Now, al
 so Red Sox fans need not worry too much just yet. But the sloppy play on defense is concerning and something they need to get turned around if they are going 
 to resume their place atop the American League East standings.  
 
-Head over to BP Boston to read my work: [Time to Tighten Up a Disappointing Defense](http://boston.locals.baseballprospectus.com/2017/05/18/time-to-tighten-up-a-disappointing-defense/).
+Head over to BP Boston to read my work: <a href = "http://boston.locals.baseballprospectus.com/2017/05/18/time-to-tighten-up-a-disappointing-defense/" target = "_blank"> Time to Tighten Up a Disappointing Defense</a>.
 
 ***
 
-I was excited to find that this work was mentioned in Alex Speier's excellent [*108 Stitches Newsletter*](http://pages.email.bostonglobe.com/108StitchesSignUp/?s_campaign=108stitches:newsletter). 
+I was excited to find that this work was mentioned in Alex Speier's excellent <a href = "http://pages.email.bostonglobe.com/108StitchesSignUp/?s_campaign=108stitches:newsletter" target = "_blank"> *108 Stitches Newsletter*</a>. 
 As I have noted previously, Speier is a Red Sox beat writer for The Boston Globe, so it is nice to have his recognition. Here is what he wrote about my article:
 
-> *[Jackie] Bradley’s erratic throws have been only part of the Red Sox’ early-season defensive struggles. [Chris Teeter of Baseball Prospectus examines](http://pages.email.bostonglobe.com/108StitchesSignUp/?s_campaign=108stitches:newsletter) a group that, as a whole, is falling well short of its 2016 standards in the field.*
+> *[Jackie] Bradley’s erratic throws have been only part of the Red Sox’ early-season defensive struggles. <a href = "http://boston.locals.baseballprospectus.com/2017/05/18/time-to-tighten-up-a-disappointing-defense/" target = "_blank"> Chris Teeter of Baseball Prospectus examines</a> a group that, as a whole, is falling well short of its 2016 standards in the field.*

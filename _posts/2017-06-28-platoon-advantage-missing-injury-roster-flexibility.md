@@ -11,7 +11,7 @@ tags:
 - Pitching
 ---
 
-This week at BP Boston I wrote about how the Red Sox have had the [platoon advantage](http://www.baseball-reference.com/bullpen/Platoon) -- that is, opposite-handed batter-pitcher matchups -- the second least
+This week at BP Boston I wrote about how the Red Sox have had the <a href = "http://www.baseball-reference.com/bullpen/Platoon" target = "_blank"> platoon advantage</a> -- that is, opposite-handed batter-pitcher matchups -- the second least
 often of any team in major league baseball. Gaining the platoon advantage often can have a real benefit on a team's performance. Ideally on offense you are getting a lot of plate
 appearances with your batters hitting against pitchers who throw with the opposite hand from the way they swing (i.e., RHB v LHP, LHB v RHP), and on defense you are managing to prevent opposing offenses
 from getting those situations (i.e., many same-handed matchups: RHP v RHB, LHP v LHB). But the Red Sox have not been able to get these situations very often this season. 
@@ -21,4 +21,4 @@ With the bulk of batters being right-handed, this means it will be tough to gain
 the Red Sox, as they currently stand alone in first place, but they could be better than they have been through the first 75 games. I am interested in seeing how/if things 
 change when certain key players get healthy and/or players are added to the team via trade.  
 
-Head over to BP Boston to read more about Red Sox matchup issues: [Missing the Platoon Advantage](http://boston.locals.baseballprospectus.com/2017/06/27/missing-the-platoon-advantage/) 
+Head over to BP Boston to read more about Red Sox matchup issues: <a href = "http://boston.locals.baseballprospectus.com/2017/06/27/missing-the-platoon-advantage/" target = "_blank"> Missing the Platoon Advantage</a>

@@ -17,7 +17,7 @@ but it will all seem more manageable with a ball game on. With the season so nea
 playoff teams and major award winners.
 
 As I say every year when I go through this exercise, making predictions in advance of a baseball season is great fun, but largely foolish. There are so many 
-things that can happen between now and the end of the season to affect the standings. And yet, last year, things shook out pretty closely to how [I anticipated](https://christopherteeter.wordpress.com/2016/12/14/season-in-review-2016-picks-predictions-mlb-still-can-sort-of-predict-baseball/). 
+things that can happen between now and the end of the season to affect the standings. And yet, last year, things shook out pretty closely to how <a href = "https://christopherteeter.wordpress.com/2016/12/14/season-in-review-2016-picks-predictions-mlb-still-can-sort-of-predict-baseball/" target = "_blank"> I anticipated</a>. 
 Ideally I can repeat my 2016 performance with my predictions for the 2017 season.
 
 ## Playoff Picks
@@ -139,5 +139,4 @@ As always, I will revisit these predictions after the season to check my accurac
 
 ---
 
-*Note*: At BP Boston, the staff provided predictions on many of these same items. Interestingly, there was almost no variability in our picks. Check them out [here](http://boston.locals.baseballprospectus.com/2017/03/31/bp-boston-divines-the-future/).
-
+*Note*: At BP Boston, the staff provided predictions on many of these same items. Interestingly, there was almost no variability in our picks. Check them out <a href = "http://boston.locals.baseballprospectus.com/2017/03/31/bp-boston-divines-the-future/" target = "_blank"> here</a>.

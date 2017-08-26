@@ -18,7 +18,7 @@ calls. The goal of the system is to get more calls right, but is also a strategi
 the Red Sox's coaching staff performed with their challenges. I did so, as I have done previously when evaluating this system, 
 by looking at how the system impacted the primary currency of baseball: runs.
 
-This was a fun one to put together. Check it out at BP Boston: [The Red Sox and the Instant Replay Challenge System](http://boston.locals.baseballprospectus.com/2017/03/08/the-red-sox-and-the-instant-replay-challenge-system/)
+This was a fun one to put together. Check it out at BP Boston: <a href = "http://boston.locals.baseballprospectus.com/2017/03/08/the-red-sox-and-the-instant-replay-challenge-system/" target = "_blank"> The Red Sox and the Instant Replay Challenge System</a>.
 
 One aspect of the article that I am particularly happy with is getting the figure plotted with team logos as the points. Doing so makes it 
 much easier to find a certain team. In the past I have relied on using a personally selected colour scheme to help differentiate

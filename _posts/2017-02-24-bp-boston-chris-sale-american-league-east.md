@@ -17,8 +17,8 @@ American League Central to the difficult American League East. I examined this i
 AL East teams and in AL East ballparks, and then waded into the muck of specific batter-pitcher matchups to see if there are any 
 batters currently residing in the AL East with whom Sale has had difficulty.
 
-Go check it out: [Chris Sale and the American League East](http://boston.locals.baseballprospectus.com/2017/02/22/chris-sale-and-the-american-league-east/).
+Go check it out: <a href = "http://boston.locals.baseballprospectus.com/2017/02/22/chris-sale-and-the-american-league-east/" target = "_blank"> Chris Sale and the American League East</a>.
 
 ***
 
-*Note: This post is a copy of a post from my [previous site](https://christopherteeter.wordpress.com/).*
+*Note: This post is a copy of a post from my <a href = "https://christopherteeter.wordpress.com/" target = "_blank"> previous site</a>.*

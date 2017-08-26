@@ -22,5 +22,4 @@ performed better after the All-Star break. For me, this suggests the expectation
 weighing recent history too heavily. Of course, as a Red Sox fan, I hope he does mash the ball the rest of the way, but I am not 
 very confident it will happen.
 
-Click over to BP Boston to read more on Hanley and the other Red Sox's batters' second half expectations:
-[A Study of Second-Half Surges](http://boston.locals.baseballprospectus.com/2017/07/13/a-study-of-second-half-surges/)
+Click over to BP Boston to read more on Hanley and the other Red Sox's batters' second half expectations: <a href = "http://boston.locals.baseballprospectus.com/2017/07/13/a-study-of-second-half-surges/" target = "_blank"> A Study of Second-Half Surges</a>
