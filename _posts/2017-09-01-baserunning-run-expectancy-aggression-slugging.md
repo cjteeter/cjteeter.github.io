@@ -3,12 +3,12 @@ layout: post
 title: Pushing Bags When Not Socking Dingers
 use-site-title: true
 comments: false
+date: 2017-09-01 22:10:00 -0300
 tags:
 - BP Boston
 - Baserunning
 - Run Expectancy
 - Slugging
-
 ---
 
 This week at BP Boston I wrote about an often overlooked aspect of a team's offense: baserunning. Simply put the Red Sox have been a bad baserunning team so far this

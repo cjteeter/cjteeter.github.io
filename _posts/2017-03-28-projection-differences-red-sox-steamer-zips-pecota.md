@@ -3,12 +3,11 @@ layout: post
 title: Parsing the Projections
 use-site-title: true
 comments: false
-image:
+date: 2017-03-28 18:55:00 -0300
 tags:
 - Projections
 - PECOTA
 - Defensive metrics
-
 ---
 
 This week at BP Boston I have an article examining differences between the three major publicly available baseball projection systems: 

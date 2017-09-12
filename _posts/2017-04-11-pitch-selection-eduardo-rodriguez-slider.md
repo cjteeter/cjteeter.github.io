@@ -3,6 +3,7 @@ layout: post
 title: Putting a First Start in Context
 use-site-title: true
 comments: false
+date: 2017-04-11 18:10:00 -0300
 tags:
 - BP Boston
 - Pitch selection

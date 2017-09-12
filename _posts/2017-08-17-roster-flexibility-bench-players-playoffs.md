@@ -3,6 +3,7 @@ layout: post
 title: Adding Players on the Roster's Margins
 use-site-title: true
 comments: false
+date: 2017-08-17 14:50:00 -0300
 tags:
 - BP Boston
 - Roster construction

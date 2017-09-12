@@ -3,7 +3,7 @@ layout: post
 title: Keeping Opponents' Barrels Off the Ball
 use-site-title: true
 comments: false
-image:
+date: 2017-03-21 11:15:00 -0300
 tags:
 - BP Boston
 - Pitching

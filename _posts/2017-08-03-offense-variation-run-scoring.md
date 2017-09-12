@@ -3,6 +3,7 @@ layout: post
 title: Variation in Run Scoring
 use-site-title: true
 comments: false
+date: 2017-08-03 13:30:00 -0300
 tags:
 - BP Boston
 - Offense

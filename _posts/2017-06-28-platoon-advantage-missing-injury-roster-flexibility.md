@@ -3,6 +3,7 @@ layout: post
 title: Roster Inflexibility and the Platoon Advantage
 use-site-title: true
 comments: false
+date: 2017-06-28 13:25:00 -0300
 tags:
 - BP Boston
 - Offense

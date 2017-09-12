@@ -5,13 +5,13 @@ use-site-title: true
 comments: false
 image: /img/2017-OD_Brady-Pedroia_GregMCooperUSATodaySports_.jpg
 show-avatar: true
+date: 2017-04-04 22:45:00 -0300
 tags:
 - BP Boston
 - Opening Day
 - WPA
 - Run differential
 - GameScore
-
 ---
 
 The baseball season is upon us and I am extremely excited to have it back. As I noted in my <a href = "http://www.cteeter.ca/blog/2017-03-31-picks-and-predictions-2017/" target = "_blank"> predictions for the season</a>, I expect a strong season from the Red Sox.

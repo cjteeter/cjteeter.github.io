@@ -3,13 +3,12 @@ layout: post
 title: Predictions for the 2017 Season
 use-site-title: true
 comments: true
-image:
+date: 2017-03-31 23:20:00 -0300
 tags:
 - Predictions
 - Awards
 - Playoffs
 - World Series
-
 ---
 
 MLB Opening Day is Sunday! Baseball is back! There is still a ridiculous amount of snow on the ground in my neck of the woods,

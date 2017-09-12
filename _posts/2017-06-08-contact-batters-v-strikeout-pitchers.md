@@ -3,6 +3,7 @@ layout: post
 title: The Red Sox's Contact-Heavy Approach
 use-site-title: true
 comments: false
+date: 2017-06-08 21:15:00 -0300
 tags:
 - BP Boston
 - Offense

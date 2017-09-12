@@ -3,6 +3,7 @@ layout: post
 title: Hitting with Two-Strikes. Can the Red Sox Do It Again?
 use-site-title: true
 comments: false
+date: 2017-02-23 09:50:00 -0300
 tags:
 - BP Boston
 - Offense

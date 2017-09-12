@@ -3,6 +3,7 @@ layout: post
 title: The Looming Effect of Chris Sale Changing Divisions
 use-site-title: true
 comments: false
+date: 2017-02-24 16:40:00 -0300
 tags:
 - BP Boston
 - Division effects

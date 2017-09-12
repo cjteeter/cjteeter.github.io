@@ -3,6 +3,7 @@ layout: post
 title: Consistent Run Scoring from the Red Sox in August
 use-site-title: true
 comments: false
+date: 2017-08-24 14:35:00 -0300
 tags:
 - BP Boston
 - Offense

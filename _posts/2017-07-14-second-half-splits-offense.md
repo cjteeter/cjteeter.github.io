@@ -3,6 +3,7 @@ layout: post
 title: Anticipating the Season's Latter Half
 use-site-title: true
 comments: false
+date: 2017-07-14 10:30:00 -0300
 tags:
 - BP Boston
 - Offense

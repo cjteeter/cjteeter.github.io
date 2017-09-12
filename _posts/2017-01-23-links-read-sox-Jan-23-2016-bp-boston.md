@@ -3,6 +3,7 @@ layout: post
 title: Optimizing the Lineup, Setting the Rotation, and Developing Young Talent
 use-site-title: true
 comments: false
+date: 2017-01-23 19:35:00 -0300
 tags:
 - BP Boston
 - Lineup
