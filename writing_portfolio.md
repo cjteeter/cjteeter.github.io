@@ -42,7 +42,7 @@ some of what I consider my best work. The articles are listed chronologically.
 (Beyond the Box Score; January 15, 2014)
 
 
-These pieces are just a selection of my work, but I re-post everything from the sites at which I contribute to this site. You can find links on the [main page]({{site.url}}) or at my <a href = "https://christopherteeter.wordpress.com/" target = "_blank"> previous website</a>, 
-which has a complete pre-2017 writing archive.
+These pieces are just a selection of my work, but I re-post everything from the sites at which I contribute to this site. You can find links on the [archive page](/archive/) or at my <a href = "https://christopherteeter.wordpress.com/" target = "_blank"> previous website</a>, 
+which has a complete pre-2017 archive.
 
 Feel free to contact me with any comments or questions.

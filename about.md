@@ -25,8 +25,8 @@ I am currently working as a Policy and Research Analyst at the <a href = "http:/
 information on my past academic pursuits, check out my [academic life](/academic/) page. 
 
 I intend on regularly updating this site with my baseball-related work that gets published on other websites, as well as any of my analysis that is not published elsewhere, 
-and perhaps thoughts on other (non-baseball) topics that interest me. My <a href = "https://christopherteeter.wordpress.com/" target = "_blank"> previous website</a> has a complete pre-2017 
-writing archive. 
+and perhaps thoughts on other (non-baseball) topics that interest me. Links for each post made on this side are found on the [archive](/archive/) page. My <a href = "https://christopherteeter.wordpress.com/" target = "_blank"> previous website</a> has a complete pre-2017 
+archive.
 
 Feel free to contact me via email or twitter using the links below. If you are interested in receiving updates when new content is posted, 
 subscribe to the site using the RSS link. If RSS is not your thing, let me know that you are interested in subscribing and I can arrange
