@@ -15,4 +15,4 @@ Below is a complete list of the posts on this site, ordered reverse-chronologica
 --
  
 That's everything to date at this site. Check out my <a href = "https://christopherteeter.wordpress.com/" target = "_blank"> previous website</a> 
-for a complete pre-2017 archive. Feel free to [contact me]({{site.url}}/contact/) about any of them. 
+for a complete pre-2017 archive. Feel free to [contact me]({{site.url}}/contact/) about any of my work.
