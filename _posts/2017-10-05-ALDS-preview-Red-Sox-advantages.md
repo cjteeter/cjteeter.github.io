@@ -28,3 +28,7 @@ The Red Sox have looked lifeless, while the Astros have been banging the hell ou
 Red Sox's style of play has been relevant so far. Hard to be aggressive on the bases when you don't get on base, they are striking out more than usual,
 and it is hard to defend home runs and all the rockets off the Astros' bats. Hopefully the off-day today and getting back to Fenway Park 
 helps the Red Sox get things turned around enough to start a three-game win streak and a dramatic series win.
+
+__*Update*__ (October 10, 2017)
+
+The Red Sox managed to grab a win in <a href = "https://www.baseball-reference.com/boxes/BOS/BOS201710080.shtml" target = "_blank"> Game 3</a> and fought valiantly in <a href = "https://www.baseball-reference.com/boxes/BOS/BOS201710090.shtml" target = "_blank"> Game 4</a>, ultimately coming up short and losing the series. It was disappointing to be sure, but even though the Red Sox's season is over I am not filled with anger/despair. They lost to a better team and have a bright future. In many ways 2017 represents the *start* of a string of competitive seasons for the team's young core. With a few tweaks (e.g., slugging first baseman, starting pitching depth) the team should be right back in an ALDS next season, ideally with a better chance of winning.
