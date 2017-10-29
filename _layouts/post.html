@@ -26,6 +26,18 @@ layout: base
         </div>
       {% endif %}
 
+	  {% if page.subscribe %}
+      	<div class="blog-postlinks">
+        <a href = "https://cteeter.us16.list-manage.com/subscribe?u=831a9689f8a79176ce6f1c5ce&id=711d4bfb2a" target="_blank"> Subscribe to the site!</a>
+        </div>
+      {% endif %}
+      
+      {% if page.archive %}
+      	<div class="blog-postlinks">
+        <a href = "http://www.cteeter.ca/archive/"> Site Archive</a>
+        </div>
+      {% endif %}
+      
       {% if page.social-share %}
         {% include social-share.html %}
       {% endif %}
