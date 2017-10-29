@@ -1,9 +1,11 @@
 ---
 layout: post
 title: Lacking Production Against Lefties
+date: 2017-09-14 20:30:00 -0300
 use-site-title: true
 comments: false
-date: 2017-09-14 20:30:00 -0300
+archive: true
+subscribe: true
 tags:
 - BP Boston
 - Offense

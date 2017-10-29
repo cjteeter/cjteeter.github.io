@@ -1,9 +1,11 @@
 ---
 layout: post
 title: Red Sox Roster Recap - Rafael Devers
+date: 2017-01-16 11:35:00 -0300
 use-site-title: true
 comments: false
-date: 2017-01-16 11:35:00 -0300
+archive: true
+subscribe: true
 tags:
 - BP Boston
 - Offense

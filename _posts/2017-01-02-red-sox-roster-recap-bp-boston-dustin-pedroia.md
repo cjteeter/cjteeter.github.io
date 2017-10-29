@@ -1,9 +1,11 @@
 ---
 layout: post
 title: Red Sox Roster Recap - Dustin Pedroia
+date: 2017-01-02 09:15:00 -0300
 use-site-title: true
 comments: false
-date: 2017-01-02 09:15:00 -0300
+archive: true
+subscribe: true
 tags:
 - BP Boston
 - Defense

@@ -1,9 +1,11 @@
 ---
 layout: post
 title: Pushing Bags When Not Socking Dingers
+date: 2017-09-01 22:10:00 -0300
 use-site-title: true
 comments: false
-date: 2017-09-01 22:10:00 -0300
+archive: true
+subscribe: true
 tags:
 - BP Boston
 - Baserunning

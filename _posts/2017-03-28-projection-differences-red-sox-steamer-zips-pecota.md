@@ -1,9 +1,11 @@
 ---
 layout: post
 title: Parsing the Projections
+date: 2017-03-28 18:55:00 -0300
 use-site-title: true
 comments: false
-date: 2017-03-28 18:55:00 -0300
+archive: true
+subscribe: true
 tags:
 - Projections
 - PECOTA

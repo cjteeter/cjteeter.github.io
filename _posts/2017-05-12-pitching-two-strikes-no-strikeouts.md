@@ -1,9 +1,11 @@
 ---
 layout: post
 title: Getting Two-Strikes but not the Third.
+date: 2017-05-12 20:25:00 -0300
 use-site-title: true
 comments: false
-date: 2017-05-12 20:25:00 -0300
+archive: true
+subscribe: true
 tags:
 - BP Boston
 - Pitching

@@ -1,9 +1,11 @@
 ---
 layout: post
 title: The Red Sox Need to be Better with their Gloves
+date: 2017-05-18 19:05:00 -0300
 use-site-title: true
 comments: false
-date: 2017-05-18 19:05:00 -0300
+archive: true
+subscribe: true
 tags:
 - BP Boston
 - Defense

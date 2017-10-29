@@ -1,9 +1,11 @@
 ---
 layout: post
 title: Predictions for the 2017 Season
+date: 2017-03-31 23:20:00 -0300
 use-site-title: true
 comments: true
-date: 2017-03-31 23:20:00 -0300
+archive: true
+subscribe: true
 tags:
 - Predictions
 - Awards

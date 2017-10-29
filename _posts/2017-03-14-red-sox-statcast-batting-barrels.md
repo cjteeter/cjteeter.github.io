@@ -1,9 +1,11 @@
 ---
 layout: post
 title: Getting the Barrel to the Ball
+date: 2017-03-14 16:40:00 -0300
 use-site-title: true
 comments: false
-date: 2017-03-14 16:40:00 -0300
+archive: true
+subscribe: true
 tags:
 - BP Boston
 - Offense

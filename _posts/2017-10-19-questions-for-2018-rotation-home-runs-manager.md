@@ -1,9 +1,11 @@
 ---
 layout: post
 title: Important Questions for the 2018 Red Sox
+date: 2017-10-19 22:03:00 -0300
 use-site-title: true
 comments: false
-date: 2017-10-19 22:03:00 -0300
+archive: true
+subscribe: true
 tags:
 - BP Boston
 - Rotation

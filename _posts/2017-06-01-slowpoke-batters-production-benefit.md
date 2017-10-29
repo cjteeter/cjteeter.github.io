@@ -1,9 +1,11 @@
 ---
 layout: post
 title: Taking (a lot of) Time Between Pitches
+date: 2017-06-01 18:35:00 -0300
 use-site-title: true
 comments: false
-date: 2017-06-01 18:35:00 -0300
+archive: true
+subscribe: true
 tags:
 - BP Boston
 - Offense

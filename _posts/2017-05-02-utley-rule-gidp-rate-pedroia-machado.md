@@ -1,9 +1,11 @@
 ---
 layout: post
 title: Examining the Impact of the Utley Rule
+date: 2017-05-02 11:20:00 -0300
 use-site-title: true
 comments: false
-date: 2017-05-02 11:20:00 -0300
+archive: true
+subscribe: true
 tags:
 - BP Boston
 - Rulebook

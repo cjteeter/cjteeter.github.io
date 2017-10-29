@@ -1,9 +1,11 @@
 ---
 layout: post
 title: Changing David Price's Role
+date: 2017-09-08 21:10:00 -0300
 use-site-title: true
 comments: false
-date: 2017-09-08 21:10:00 -0300
+archive: true
+subscribe: true
 tags:
 - BP Boston
 - Red Sox

@@ -1,9 +1,11 @@
 ---
 layout: post
 title: Red Sox Roster Recap - Marco Hernandez
+date: 2017-02-07 23:40:00 -0300
 use-site-title: true
 comments: false
-date: 2017-02-07 23:40:00 -0300
+archive: true
+subscribe: true
 tags:
 - BP Boston
 - Roster construction

@@ -1,9 +1,11 @@
 ---
 layout: post
 title: Getting Lots of Reps in High-Leverage Moments
+date: 2017-09-21 22:30:00 -0300
 use-site-title: true
 comments: false
-date: 2017-09-21 22:30:00 -0300
+archive: true
+subscribe: true
 tags:
 - BP Boston
 - Leverage
