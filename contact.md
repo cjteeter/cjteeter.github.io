@@ -26,4 +26,4 @@ You can do so using the form below:
   <button type="submit" class="btn btn-lg btn-primary">Submit</button>
 </form>
 
-If you'd rather not use the form, Email and Twitter accounts are among the links below.
+If you'd rather not use the form, my Email and Twitter accounts are among the colourful links below.
