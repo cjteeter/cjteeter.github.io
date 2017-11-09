@@ -148,7 +148,7 @@ exclude:
   - CNAME
   - Vagrantfile
 
-gems:
+plugins:
   - jekyll-paginate
 
 
