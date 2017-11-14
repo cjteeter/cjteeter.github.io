@@ -28,7 +28,7 @@ Head to BP Boston to read more on why I think the Red Sox are best served by mov
 
 *__Update__* (September 14, 2017)
 
-The Red Sox announced David Price will pitch out the bullpen for the rest of the season!
+The Red Sox announced David Price will pitch out of the bullpen for the rest of the season!
 
 <blockquote class="twitter-tweet tw-align-center"><p>John Farrell: David Price will pitch out of bullpen in potential multi-inning role. &#39;He wants to get back and pitch. He wants to compete.&#39;</p>&mdash; Alex Speier (@alexspeier) <a href="https://twitter.com/alexspeier/status/908347372861878273" target = "_blank">September 14, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
