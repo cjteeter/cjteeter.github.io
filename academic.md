@@ -7,7 +7,7 @@ show-avatar: true
 
 ---
 
-For more complete records of my academic career, see the PDF versions of my [curriculum vitae]({{site.url}}/assets/Teeter_CV_Apr-2017.pdf) and [teaching dossier]({{site.url}}/assets/Teeter_TeachingDossier_July2015.pdf).
+For more complete records of my academic career, see the PDF versions of my [curriculum vitae]({{site.url}}/assets/Teeter_CV_Nov-2017.pdf) and [teaching dossier]({{site.url}}/assets/Teeter_TeachingDossier_July2015.pdf).
 
 
 # Research 
