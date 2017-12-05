@@ -3,7 +3,6 @@ layout: page
 title: Writing Portfolio
 subtitle: Selected samples of my writing
 use-site-title: true
-comments: false
 show-avatar: true
 ---
 
@@ -44,5 +43,7 @@ some of what I consider my best work. The articles are listed chronologically.
 
 These pieces are just a selection of my work, but I re-post everything from the sites at which I contribute to this site. You can find links on the [archive page](/archive/) or at my <a href = "https://christopherteeter.wordpress.com/" target = "_blank"> previous website</a>, 
 which has a complete pre-2017 archive.
+
+<a href = "https://cteeter.us16.list-manage.com/subscribe?u=831a9689f8a79176ce6f1c5ce&id=711d4bfb2a" target="_blank"> Subscribe to the site</a> and you will receive an email when new content is posted.
 
 Feel free to contact me with any comments or questions.
