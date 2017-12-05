@@ -20,7 +20,7 @@ You can do so using the form below:
     </div>
   </div>
   <input type="hidden" name="_subject" value="New message from cteeter.ca">
-  <textarea type="text" name="content" class="form-control input-lg" placeholder="Message" title="Message" required="required" rows="3"></textarea>
+  <textarea type="text" name="content" class="form-control input-lg" placeholder="Message" title="Message" required="required" rows="6"></textarea>
   <input type="text" name="_gotcha" style="display:none">
   <input type="hidden" name="_next" value="/contact/?message=Your_message_was_sent_to_Chris._Thanks!"/>
   <button type="submit" class="btn btn-lg btn-primary">Submit</button>
