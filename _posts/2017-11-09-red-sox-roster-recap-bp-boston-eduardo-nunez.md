@@ -3,9 +3,6 @@ layout: post
 title: Red Sox Roster Recap - Eduardo Nunez
 date: 2017-11-09 19:36:00 -0300
 use-site-title: true
-comments: false
-archive: true
-subscribe: true
 tags:
 - BP Boston
 - Utility infielder

@@ -3,9 +3,6 @@ layout: post
 title: The David Price Story that Won't Die
 date: 2017-07-28 13:25:00 -0300
 use-site-title: true
-comments: false
-archive: true
-subscribe: true
 tags:
 - BP Boston
 - Red Sox

@@ -4,8 +4,6 @@ title: A Memory Featuring Roy Halladay
 date: 2017-11-08 16:32:00 -0300
 use-site-title: true
 comments: true
-archive: true
-subscribe: true
 tags:
 - Roy Halladay
 - Complete game

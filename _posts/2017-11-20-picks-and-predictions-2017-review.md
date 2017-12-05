@@ -4,8 +4,6 @@ title: Reviewing My Predictions for the 2017 Season
 date: 2017-11-20 20:40:00 -0300
 use-site-title: true
 comments: true
-archive: true
-subscribe: true
 tags:
 - Predictions
 - Awards

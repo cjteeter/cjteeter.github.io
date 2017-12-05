@@ -3,9 +3,6 @@ layout: post
 title: The Magic of Opening Day
 date: 2017-04-04 22:45:00 -0300
 use-site-title: true
-comments: false
-archive: true
-subscribe: true
 image: /img/2017-OD_Brady-Pedroia_GregMCooperUSATodaySports_.jpg
 show-avatar: true
 tags:

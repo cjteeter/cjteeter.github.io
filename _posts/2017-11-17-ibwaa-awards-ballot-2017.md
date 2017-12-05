@@ -4,8 +4,6 @@ title: IBWAA MLB Season Awards for 2017
 date: 2017-11-17 09:15:00 -0300
 use-site-title: true
 comments: true
-archive: true
-subscribe: true
 tags:
 - Awards
 - IBWAA

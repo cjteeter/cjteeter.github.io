@@ -4,8 +4,6 @@ title: The Red Sox and the Instant Replay Challenge System
 date: 2017-03-08 12:20:00 -0300
 use-site-title: true
 comments: true
-archive: true
-subscribe: true
 image: /img/Fig3_mgr-rates_logos.png
 tags:
 - BP Boston

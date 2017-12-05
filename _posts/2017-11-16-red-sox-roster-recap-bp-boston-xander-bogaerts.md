@@ -3,9 +3,6 @@ layout: post
 title: Red Sox Roster Recap - Xander Bogaerts
 date: 2017-11-16 19:02:00 -0300
 use-site-title: true
-comments: false
-archive: true
-subscribe: true
 tags:
 - BP Boston
 - Offense

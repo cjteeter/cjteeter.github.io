@@ -3,9 +3,6 @@ layout: post
 title: Game Sevens!
 date: 2017-11-03 07:07:00 -0300
 use-site-title: true
-comments: false
-archive: true
-subscribe: true
 tags:
 - BP Boston
 - Playoffs

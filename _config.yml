@@ -3,15 +3,9 @@
 # url is the full website URL
 # baseurl is the website's URL without the hostname
 
-# If you are building a simple GitHub user page (http://username.github.io) then use these settings:
+# Simple GitHub user page (http://username.github.io) using these settings:
 url: "http://www.cteeter.ca"
 baseurl: ""
-
-# If you are building a GitHub project page then use these settings:
-#url: "http://username.github.io/projectname"
-#baseurl: "/projectname"
-
-# Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
 title: Chris Teeter
@@ -25,22 +19,20 @@ description: Baseball. Cognition.
 navbar-links:
     About: "about"
     Portfolio: "writing_portfolio"
+    Archive: "archive"
     Contact: "contact"
 nav-search: "search"
   
 
 # Image to show in the navigation bar - image must be a square (width = height)
-# Remove this parameter if you don't want an image in the navbar
 avatar: "/img/CJT_w_CRT.png"
 
-# If you want to have an image logo in the top-left corner instead of the title text,
-# then specify the following parameter
+# Image logo in the top-left corner instead of the title text
 # title-img: "/img/CJT_w_CRT.png"
 
 # --- Footer options --- #
 
-# Change all these values or delete the ones you don't want.
-# Important: you must keep the "name" parameter, everything else you can remove
+# Change values for accounts
 author:
   name: Chris Teeter
   email: "christopher.teeter@gmail.com"
@@ -57,7 +49,7 @@ author:
 #  spotify: yourname
 #  telephone: yourphone
 
-# Select which links to show in the footer
+# Links to show in the footer
 footer-links-active:
   email: true
   twitter: true
@@ -75,22 +67,21 @@ footer-links-active:
   spotify: false
   telephone: false
 
-# Select which share links to show in posts
+# Share links to show in posts
 share-links-active:
   twitter: true
   facebook: true
   google: false
   linkedin: false
 
-# How to display the link to the website in the footer
-# Remove this if you don't want a link in the footer
+# Display for website link in the footer
 url-pretty: "cteeter.ca"
 
 # --- Misc --- #
-# Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
+# Disqus shortname (NOT the userid)
 disqus: "cjteeter"
 
-# Fill in your Google Analytics ID to track your website using GA
+# Google Analytics ID to track website using GA
 google_analytics: "UA-49641300-2"
 
 # Google Tag Manager ID
@@ -107,8 +98,6 @@ excerpt_length: 45
 # and RSS feed title
 title-separator: "-"
 
-# --- Don't need to touch anything below here (but you can if you want) --- #
-
 # Output options (more information on Jekyll's site)
 timezone: "America/Halifax"
 markdown: kramdown
@@ -119,7 +108,7 @@ paginate: 10
 kramdown:
   input: GFM
 
-# Default YAML values (more information on Jekyll's site)
+# --- Default YAML Values --- #
 defaults:
   -
     scope:
@@ -127,8 +116,11 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      comments: true  # add comments to all blog posts
-      social-share: true # add social media sharing buttons to all blog posts
+      archive: true
+      comments: false
+      social-share: true
+      subscribe: true
+
   -
     scope:
       path: "" # all files
@@ -136,7 +128,8 @@ defaults:
       layout: "page"
       show-avatar: false
 
-# Use tags pages (not recommended if you are deploying via GitHub pages, only set to true if deploying locally with ruby)
+
+# Use tags pages
 link-tags: false
 
 # Exclude these files from production site
@@ -150,6 +143,3 @@ exclude:
 
 plugins:
   - jekyll-paginate
-
-
-# 2fc73a3a967e97599c9763d05e564189

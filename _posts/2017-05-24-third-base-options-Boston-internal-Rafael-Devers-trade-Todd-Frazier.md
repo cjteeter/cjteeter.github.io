@@ -3,9 +3,6 @@ layout: post
 title: Don't Need Frazier! Don't Need Frazier!
 date: 2017-05-24 10:50:00 -0300
 use-site-title: true
-comments: false
-archive: true
-subscribe: true
 tags:
 - BP Boston
 - Defense

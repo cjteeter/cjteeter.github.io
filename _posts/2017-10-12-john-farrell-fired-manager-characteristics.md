@@ -3,9 +3,6 @@ layout: post
 title: Manager John is Gone. Who's Next?
 date: 2017-10-12 10:52:00 -0300
 use-site-title: true
-comments: false
-archive: true
-subscribe: true
 tags:
 - BP Boston
 - Red Sox

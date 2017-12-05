@@ -3,9 +3,6 @@ layout: post
 title: Red Sox Roster Recap - Heath Hembree
 date: 2017-01-27 18:25:00 -0300
 use-site-title: true
-comments: false
-archive: true
-subscribe: true
 tags:
 - BP Boston
 - Bullpen

@@ -3,9 +3,6 @@ layout: post
 title: Red Sox Roster Recap - Rick Porcello
 date: 2017-12-01 08:22:00 -0300
 use-site-title: true
-comments: false
-archive: true
-subscribe: true
 tags:
 - BP Boston
 - Pitching

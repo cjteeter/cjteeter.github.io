@@ -3,9 +3,6 @@ layout: post
 title: Adding Numbers to the Facade
 date: 2017-06-24 11:05:00 -0300
 use-site-title: true
-comments: false
-archive: true
-subscribe: true
 image: /img/RedSoxRetiredNumbers.jpg
 show-avatar: true
 tags:

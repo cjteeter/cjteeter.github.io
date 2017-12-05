@@ -3,9 +3,6 @@ layout: post
 title: ALDS Preview - Pitting the Red Sox's Style Against the Astros
 date: 2017-10-05 16:04:00 -0300
 use-site-title: true
-comments: false
-archive: true
-subscribe: true
 tags:
 - BP Boston
 - Baserunning

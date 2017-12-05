@@ -3,9 +3,6 @@ layout: post
 title: Wanting Kimbrel to be Father Goose
 date: 2017-07-20 09:40:00 -0300
 use-site-title: true
-comments: false
-archive: true
-subscribe: true
 tags:
 - BP Boston
 - Bullpen
