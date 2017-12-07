@@ -15,7 +15,7 @@ at avoiding opponents' barrels, which likely contributed to them being a top-10 
 
 Head to BP Boston to read the article: <a href = "http://boston.locals.baseballprospectus.com/2017/03/21/barreled-balls-and-preventative-pitching/" target = "_blank"> Barreled Balls and Preventative Pitching</a>
 
-I suggested the title be *The Red Sox's Dry Agents*, as an allusion to prohibition era police who broke barrels of booze, but both of my
+I suggested the title be *The Red Sox's Dry Agents* as an allusion to prohibition era police who broke barrels of booze, but both of my
 editors correctly recognized that this was too esoteric and not likely to draw traffic to the site.
 
 One of the most interesting things to come from my research for this article was that unlike the situation <a href = "http://boston.locals.baseballprospectus.com/2017/03/14/the-red-soxs-barrel-blast/" target = "_blank"> for the batters</a>,
