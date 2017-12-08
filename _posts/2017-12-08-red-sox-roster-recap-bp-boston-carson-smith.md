@@ -12,9 +12,9 @@ tags:
 ---
 
 Yesterday, my latest entry into this year's BP Boston *Roster Recap Series* went up at the site. I wrote about Carson Smith's return
-to the major leagues after undergoing Tommy John Surgery in May of 2016. Smith did not throw many innings for the Red Sox this season,
-nevertheless it was good to see that his rehab from the injury was successful enough that he could get back on a major league mound
-and get batters out. Smith will likely have an important role for the Red Sox in 2018, taking the ball in front of Craig Kimbrel. Ideally
+to the major leagues after having undergone Tommy John Surgery in May 2016. Smith did not throw many innings for the Red Sox this season,
+nevertheless, it was good to see that his rehab from the injury was successful enough that he could get back on a major league mound
+and get batters out. Smith will likely have an important role for the Red Sox in 2018, taking the ball in front of Craig Kimbrel. Ideally,
 he can regain his 2015 form and make the end of games very difficult for Red Sox's opponents.
 
 Read more about Smith's return to major league pitching: <a href = "http://boston.locals.baseballprospectus.com/2017/12/07/roster-recap-carson-smith-returns-to-the-mound/" target = "_blank"> Roster Recap: Carson Smith Returns to the Mound</a>.
