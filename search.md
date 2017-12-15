@@ -9,8 +9,8 @@ css: /css/search.css
 ---
 
 For now, searching is done through a Google search function customized for this site. It comes
-with ads, which is not great, but it does the trick. Check the [archive](/archive/) if you are having
-trouble finding what you are after through the search function.
+with ads, which is not great, but it works. If you are having trouble finding what you are after
+using this search function, trying a *CMD+F* on the [archive](/archive/) page might do the trick.
 
 <div id="google-custom-search">
 <script>
