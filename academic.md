@@ -15,7 +15,7 @@ For more complete records of my academic career, see the PDF versions of my [cur
 ## Teaching and Learning
 
 Attendance at post-secondary institutions has steadily increased over the past decade. With more and more individuals entering the higher 
-education system there is an increased need for ensuring that students are a part of a high quality learning environment. Thus, there is 
+education system there is an increased need for ensuring that students are a part of a high-quality learning environment. Thus, there is an
 immense value (financially and otherwise) in identifying factors, and developing mechanisms that contribute to student success. Alas, the 
 primary objective of my postdoctoral research was to identify and promote effective teaching and learning practices for higher education. My 
 approach to refining educational practice was through examination and application of principles in cognitive psychology.
@@ -23,7 +23,7 @@ approach to refining educational practice was through examination and applicatio
 My studies addressed the following three questions:
 
 First, how can educational testing strategies be used to enhance learning? Previous research has demonstrated that material that is recalled 
-on an initial test is better retained on future tests than material that is studied for similar periods of time. This is of critical importance 
+on an initial test is better retained on future tests than the material that is studied for similar periods of time. This is of critical importance 
 for how educators use assessment in their classrooms, and how students approach their studying sessions. I worked on isolating retrieval 
 conditions (e.g. focus on initial encoding; test formats) that lead to successful long-term information retention and perhaps most important, 
 tried to establish methods for instructing students to take advantage of this benefit.
@@ -60,7 +60,7 @@ Both visual and non-visual sources of information may be used in accomplishing t
 
 My doctoral research demonstrated that the non-visual component (i.e. body-based information from muscles and joints) may have a much greater 
 impact than has been considered to date. One effect of the contribution from body-based information is that our mental representations of 
-space are automatically updated to be in line with the current facing direction. As a result it is difficult to retrieve spatial information 
+space are automatically updated to be in line with the current facing direction. As a result, it is difficult to retrieve spatial information 
 from an imagined perspective that differs from the current physical perspective.
 
 Here are a few of the questions I pursued as part of my doctoral research:
@@ -78,7 +78,7 @@ This research was conducted under the supervision of <a href = "http://vr.mcmast
 If you missed the link to my teaching dossier at the top, you can get it [here]({{site.url}}/assets/Teeter_TeachingDossier_July2015.pdf).
 
 My teaching philosophy has emerged through my time as an undergraduate at Mount Allison University, and my training as a teaching assistant, 
-graduate student and course instructor. My focus as an instructor is on challenging students, motivating them to feel confidence in their 
+graduate student, and course instructor. My focus as an instructor is on challenging students, motivating them to feel confident in their 
 abilities, and ideally instilling a desire for learning. I integrate evidence-based principles into my courses in order to be a 
 positive influence on students and fellow educators throughout the learning process.
 
