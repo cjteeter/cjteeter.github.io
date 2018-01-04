@@ -6,7 +6,7 @@ use-site-title: true
 show-avatar: true
 ---
 
-For the last three years I have been contributing writing and research to analytically-inclined baseball websites. Here you can find links to
+Over the last five years I have contributed writing and research to analytically-inclined baseball websites. Here you can find links to
 some of what I consider my best work. The articles are listed chronologically. 
 
 - <a href = "http://boston.locals.baseballprospectus.com/2017/05/02/dustin-pedroia-and-the-utley-rule/" target = "_blank"> Dustin Pedroia and the Utley Rule</a>

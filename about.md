@@ -8,12 +8,13 @@ bigimg: "/img/fundycoast.jpg"
 ---
 
 Welcome! This is my personal website and blog, where you will (mostly) find my research, analysis, and writing about the game of baseball. I tend to
-approach my analysis of the game from an analytical perspective. Currently, I am a columnist at <a href ="http://boston.locals.baseballprospectus.com/" target = "_blank"> Baseball Prospectus Boston</a>,
-where I focus on the Boston Red Sox. BP Boston is part of <a href = "http://www.baseballprospectus.com/" target = "_blank"> Baseball Prospectus</a>, which is one of baseball's leading analytical outlets.
-The Boston local-site is an excellent site for Red Sox content so I encourage you to check it all out, but if you are looking for a
+approach my analysis of the game from an analytical perspective. Right now I am something of a free agent, not writing for any outlet other than here on my
+personal site. Over the the last few years I worked as a columnist at <a href ="http://boston.locals.baseballprospectus.com/" target = "_blank"> Baseball Prospectus Boston</a>,
+where I focused on all things Boston Red Sox. BP Boston is part of <a href = "http://www.baseballprospectus.com/" target = "_blank"> Baseball Prospectus</a>, which is one of baseball's leading analytical outlets.
+The Boston local-site is excellent for Red Sox content so I encourage you to check it all out, but if you are looking for a
 direct link to my writing, you can find it <a href = "http://boston.locals.baseballprospectus.com/author/christopherteeter/" target = "_blank"> here</a>. Prior to writing at
 BP Boston, I wrote at <a href = "http://www.beyondtheboxscore.com/" target  = "_blank"> Beyond the Box Score</a>; initially as a contributor, and then as a featured writer 
-and editor. I no longer write at BtBS but my work still exists <a href = "http://www.sbnation.com/users/Chris%20Teeter/blog" target = "_blank"> here </a>.
+and editor. I no longer write at BtBS but my work still exists <a href = "http://www.sbnation.com/users/Chris%20Teeter/blog" target = "_blank"> here </a>. 
 
 Before getting myself into baseball analysis and writing, I trained as a cognitive psychologist. I completed an undergraduate degree in psychology at <a href = "http://www.mta.ca" target = "_blank"> Mount Allison University</a>, 
 and then completed a Ph.D. at <a href = "https://www.science.mcmaster.ca/pnb/" target = "_blank"> McMaster University</a>. My doctoral research focused on
