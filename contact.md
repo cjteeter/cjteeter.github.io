@@ -5,7 +5,7 @@ use-site-title: true
 show-avatar: true
 ---
 
-I am always open to receiving feedback on my work. If you have questions, comments, or concerns about anything I have written 
+I am always open to receiving feedback on any of my work. If you have questions, comments, or concerns about anything I have written, developed,  
 and/or about aspects of this site, please do not hesitate to let me know. 
 
 You can do so using the form below:
@@ -26,4 +26,4 @@ You can do so using the form below:
   <button type="submit" class="btn btn-lg btn-primary">Submit</button>
 </form>
 
-If you'd rather not use the form, my Email and Twitter accounts are among the colourful links below.
+If you would rather not use the form, my Email and Twitter accounts are among the colourful links below.

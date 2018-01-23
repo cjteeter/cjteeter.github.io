@@ -8,9 +8,9 @@ css: /css/search.css
 
 ---
 
-For now, searching is done through a Google search function customized for this site. It comes
-with ads, which is not great, but it works. If you are having trouble finding what you are after
-using this search function, trying a *CMD+F* on the [archive](/archive/) page might do the trick.
+For now, searching is done through a Google search function customized for this site. It often includes ads, which is not great, 
+but it works fairly well. If you are having trouble finding the article you are after using this search function, trying a 
+*CMD+F* on the [archive](/archive/) page might do the trick. If not, [contact me]({{site.url}}/contact/).
 
 <div id="google-custom-search">
 <script>

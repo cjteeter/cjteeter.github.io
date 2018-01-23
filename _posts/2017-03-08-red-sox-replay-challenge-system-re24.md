@@ -81,4 +81,4 @@ plot +
 
 ```
 
-Hopefully that makes sense. If not, post a comment below, or send me an email and I will clarify.
+Hopefully that makes sense. If not, post a comment below or send me an email and I will clarify.
