@@ -19,6 +19,7 @@ description: Baseball. Cognition.
 navbar-links:
     About: "about"
     Portfolio: "writing_portfolio"
+    Apps: "applications"
     Archive: "archive"
     Contact: "contact"
 nav-search: "search"
