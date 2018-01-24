@@ -11,8 +11,8 @@ tags:
 - Hall of Fame
 ---
 
-The 2018 Major League Baseball Hall of Fame inductees will be announced tonight. I suspect it will be a fairly large class, with at least four players gaining
-enshrinement. Chipper Jones, Vladimir Guerrero, Jim Thome, and Trevor Hoffman seem like locks, and Edgar Martinez and Mike Mussina will be close. 
+The 2018 Major League Baseball Hall of Fame inductees will be announced tomorrow night (January 24th). I suspect it will be a fairly large class, with at least four players gaining
+enshrinement. Chipper Jones, Vladimir Guerrero, Jim Thome, and Trevor Hoffman seem like locks, while Edgar Martinez and Mike Mussina will be close. 
 
 Those who have followed my work know that I have engaged in outsider-voting processes at <a href = 'https://www.beyondtheboxscore.com/' target = '_blank'>Beyond the Box Score</a>
 and for the <a href = "https://ibwaa.com/" target = "_blank"> Internet Baseball Writers Association of America</a> (IBWAA). Two years ago when I posted <a href = 'https://christopherteeter.wordpress.com/2016/01/08/the-2016-hall-of-fame-class/' target = '_blank'>my ballots</a>,
