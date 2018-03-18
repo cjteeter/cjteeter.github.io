@@ -7,10 +7,14 @@ show-avatar: true
 ---
 
 Over the last five years, I have contributed writing and research to analytically-inclined baseball websites. Here you can find links to
-some of what I consider my best work. The articles are listed chronologically. 
+some of what I consider my best work. The articles are listed reverse-chronologically. 
 
+- <a href = "http://boston.locals.baseballprospectus.com/2017/05/09/when-the-strikeout-never-comes/" target = "_blank"> When the Strikeout Never Comes</a>
+(BP Boston; May 9, 2017)
 - <a href = "http://boston.locals.baseballprospectus.com/2017/05/02/dustin-pedroia-and-the-utley-rule/" target = "_blank"> Dustin Pedroia and the Utley Rule</a>
 (BP Boston; May 2, 2017)
+- <a href = "http://boston.locals.baseballprospectus.com/2017/03/21/barreled-balls-and-preventative-pitching/" target = "_blank"> Barreled Balls and Preventative Pitching</a>
+(BP Boston; March 21, 2017)
 - <a href = "http://boston.locals.baseballprospectus.com/2017/03/08/the-red-sox-and-the-instant-replay-challenge-system/" target = "_blank"> The Red Sox and the Instant Replay Challenge System</a>
 (BP Boston; March 8, 2017)
 - <a href = "http://boston.locals.baseballprospectus.com/2015/06/19/joe-kelly-the-bullpen-two-birds-and-one-stone/" target = "_blank"> Joe Kelly, The Bullpen, Two Birds and One Stone</a>
