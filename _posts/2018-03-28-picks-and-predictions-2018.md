@@ -20,7 +20,7 @@ shook out. Hopefully I can repeat my clairvoyance.
 
 ## Playoff Picks
 
-Here is my projected playoffs:
+Here are the 10 teams I think will make the playoffs, the league champions, and the world series winner:
 
 <table style="width:100%" align="center">
 	<tr>
