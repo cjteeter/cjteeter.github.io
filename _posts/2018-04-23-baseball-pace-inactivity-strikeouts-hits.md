@@ -17,7 +17,7 @@ Strikeouts: 5,562
 
 Hits: 5,174
 
-You are reading that correctly. Through Sunday's games, batters have turned heel from the batter's box to find a spot on the bench 388 more times than they have run to (at least) first base safely. That is astounding. And it is new. This is the first season in which strikeouts have outpaced hits. Here is the hits:strikeouts ratio for the 1961 to 2018 seasons, see if you can spot the recent trend:  
+You are reading that correctly. Through Sunday's games, batters have turned heel from the batter's box to find a spot on the bench 388 more times than they have run to (at least) first base safely. That is astounding. And it is new. This is the first season in which strikeouts have outpaced hits. Joe Sheehan has been tracking <a href = "https://twitter.com/joe_sheehan/status/983760333700501504" target = "_blank"> this trend</a> for a <a href = "https://twitter.com/joe_sheehan/status/988445716539375617" target = "_blank"> few weeks</a>. I have been following along and wanted to dig into it further. First, here is the hits:strikeouts ratio for the 1961 to 2018 seasons, see if you can spot the recent trend:  
 
 ![Fig1_HperSO_SeasonTotal_1961-2018](/img/Fig1_HperSO_SeasonTotal_1961-2018.png)
 
