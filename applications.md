@@ -51,13 +51,13 @@ tr, td {
     <!-- Decision Maker Row -->
     	<tr>
     		<td style="text-align:center" bgcolor="white"><div class="imgshadow"><a href = "https://cjteeter.shinyapps.io/DecisionMaker/" target = "_blank"><img src="{{site.url}}/img/app1_dm.png" alt="Decision Maker"></a></div></td>
-    		<td bgcolor="white"><a href = "https://cjteeter.shinyapps.io/DecisionMaker/" target = "_blank"><b>Decision Maker</b></a> takes input on options for a decision you are considering and returns a 
+    		<td bgcolor="white"><a href = "https://cjteeter.shinyapps.io/DecisionMaker/" target = "_blank"><b>Decision Maker</b></a> takes input on options for a decision you are trying to make and returns a randomly selected
                 choice. It is intended for people like me who perpetually overthink simple things.</td>
         </tr>
     <!-- MLB Team Synchrony Row -->
         <tr>
             <td style="text-align:center" bgcolor="white"><div class="imgshadow"><a href = "https://cjteeter.shinyapps.io/MLBTeamSynchrony/" target = "_blank"><img src="{{site.url}}/img/app2_ts.png" alt="MLB Team Synchrony"></a></div></td>
-            <td bgcolor="white"><a href = "https://cjteeter.shinyapps.io/MLBTeamSynchrony/" target = "_blank"><b>MLB Team Synchrony</b></a> uses major league baseball data from 1998-2017 to allow users to examine 
+            <td bgcolor="white"><a href = "https://cjteeter.shinyapps.io/MLBTeamSynchrony/" target = "_blank"><b>MLB Team Synchrony</b></a> uses major league baseball data from 1998-present to allow users to examine 
                 how run scoring and run prevention vary over the course of a season, and how these can be <i>in-sync</i>, 
                 leading to periods of consistent results (wins or losses), or <i>out-of-sync</i>, leading to a 
                 one-step-forward-one-step-back feeling.</td>
