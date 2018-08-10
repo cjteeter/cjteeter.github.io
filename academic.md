@@ -12,7 +12,7 @@ For more complete records of my academic career, see the PDF versions of my [cur
 
 # Research 
 
-## Teaching and Learning
+### Teaching and Learning
 
 Attendance at post-secondary institutions has steadily increased over the past decade. With more and more individuals entering the higher 
 education system there is an increased need for ensuring that students are a part of a high-quality learning environment. Thus, there is an
@@ -51,7 +51,7 @@ to the research conducted in our lab, and to media coverage of the research that
 - Article in the Hamilton Spectator - <a href = "http://www.thespec.com/news-story/4220473-mac-symposium-tackles-learning-techniques/" target = "_blank"> McMaster Symposium tackles learning techniques</a>.
 
 
-## Spatial Cognition
+### Spatial Cognition
 
 Anytime we move within an environment we are drawing on spatial memories and creating new memories. It is important to consider that the 
 development of a mental representation of a space requires an integration of the static distance between oneself and environmental landmarks 
