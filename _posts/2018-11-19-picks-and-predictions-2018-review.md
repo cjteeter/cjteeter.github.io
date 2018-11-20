@@ -11,7 +11,7 @@ tags:
 - World Series
 ---
 
-A quick review of how I fared with my <a href = https://www.cteeter.ca/blog/2018-03-28-picks-and-predictions-2018/" target = "_blank">preseason picks</a> for the playoff teams, pennant winners, World Series champion, and major award winners.
+A quick review of how I fared with my <a href = "https://www.cteeter.ca/blog/2018-03-28-picks-and-predictions-2018/" target = "_blank">preseason picks</a> for the playoff teams, pennant winners, World Series champion, and major award winners.
 
 ## Playoff Picks
 
