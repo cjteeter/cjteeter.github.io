@@ -1,7 +1,7 @@
 ---
 layout: post
 title: IBWAA MLB Season Awards for 2018
-date: 2018-11-19 09:15:00 -0300
+date: 2018-11-18 09:15:00 -0300
 use-site-title: true
 comments: true
 tags:
