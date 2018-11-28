@@ -58,7 +58,7 @@ This is long overdue, but here is a quick follow-up on <a href = "https://www.ct
 	</tr>
 </table>
 
-Even in May, where hits prevailed over strikeouts, it was only by 60. 
+Even in May, when hits prevailed over strikeouts, it was only by 60. 
 
 All told, there were 41,207 strikeouts and 41,019 hits in 2018, making it the first season since 1908 (the first year for which data are available) in which there were fewer hits than strikeouts in a season. The balls-in-play percentage for 2018 settled under the 70% mark at 69.27, just the second time since 1908 that has been the case; to find the first you have to go all the way back to 2017, when it finished at 69.81.
 
