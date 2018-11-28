@@ -62,7 +62,7 @@ Even in May, where hits prevailed over strikeouts, it was only by 60.
 
 All told, there were 41,207 strikeouts and 41,019 hits in 2018, making it the first season since 1908 (the first year for which data are available) in which there were fewer hits than strikeouts in a season. The balls-in-play percentage for 2018 settled under the 70% mark at 69.27, just the second time since 1908 that has been the case; to find the first you have to go all the way back to 2017, when it finished at 69.81.
 
-The inactivity of things did not get any better when the bright lights of the postseason -- and many more eyeballs -- were on the sport. The 2018 postseason included 635 strikeouts and 492 hits. Now, it is not entirely new for strikeouts to be more frequent than hits in the postseason, it has happened in seven of the last ten years, but the 0.77 hits:strikeouts ratio posted in this year was easily the lowest:
+The inactivity of things did not get any better when the bright lights of the postseason -- and many more eyeballs -- were on the sport. The 2018 postseason included 635 strikeouts and 492 hits. Now, it is not entirely new for strikeouts to be more frequent than hits in the postseason, it happened in seven of the last ten years, but the 0.77 hits:strikeouts ratio posted this year was the lowest:
 
 <table style="width:85%" align="center">
 	<tr>
@@ -133,7 +133,7 @@ The inactivity of things did not get any better when the bright lights of the po
 	</tr>
 </table>
 
-This sort of inactivity is an issue, not necessarily for people like me, but for the average fan and/or young person just coming to the game. I totally see how the game seems boring. Having the ball in play more often, with fielders chasing it, runners advancing on the bases, and runs being scored will be better for the game's entertainment value. As an example, look at this:
+This level of inactivity is an issue, not necessarily for people like me, but for the average fan and/or young person just coming to the game. I see how the game seems boring. Having the ball in play more often, with fielders chasing it, runners advancing on the bases, and runs being scored will be better for the game's entertainment value. As an example (of most of those things), look at this:
 
 <div align = 'center'><iframe src="https://streamable.com/m/2516847683" width="560" height="315" frameborder="0" allowfullscreen></iframe></div>
 
