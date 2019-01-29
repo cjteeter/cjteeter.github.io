@@ -48,12 +48,6 @@ tr, td {
        <col span="1" style="width: 35%;">
        <col span="1" style="width: 65%;">
     </colgroup>
-    <!-- Decision Maker Row -->
-    	<tr>
-    		<td style="text-align:center" bgcolor="white"><div class="imgshadow"><a href = "https://cjteeter.shinyapps.io/DecisionMaker/" target = "_blank"><img src="{{site.url}}/img/app1_dm.png" alt="Decision Maker"></a></div></td>
-    		<td bgcolor="white"><a href = "https://cjteeter.shinyapps.io/DecisionMaker/" target = "_blank"><b>Decision Maker</b></a> takes input on options for a decision you are trying to make and returns a randomly selected
-                choice. It is intended for people like me who perpetually overthink simple things.</td>
-        </tr>
     <!-- MLB Team Synchrony Row -->
         <tr>
             <td style="text-align:center" bgcolor="white"><div class="imgshadow"><a href = "https://cjteeter.shinyapps.io/MLBTeamSynchrony/" target = "_blank"><img src="{{site.url}}/img/app2_ts.png" alt="MLB Team Synchrony"></a></div></td>
@@ -61,6 +55,12 @@ tr, td {
                 how run scoring and run prevention vary over the course of a season, and how these can be <i>in-sync</i>, 
                 leading to periods of consistent results (wins or losses), or <i>out-of-sync</i>, leading to a 
                 one-step-forward-one-step-back feeling.</td>
+        </tr>
+    <!-- Decision Maker Row -->
+    	<tr>
+    		<td style="text-align:center" bgcolor="white"><div class="imgshadow"><a href = "https://cjteeter.shinyapps.io/DecisionMaker/" target = "_blank"><img src="{{site.url}}/img/app1_dm.png" alt="Decision Maker"></a></div></td>
+    		<td bgcolor="white"><a href = "https://cjteeter.shinyapps.io/DecisionMaker/" target = "_blank"><b>Decision Maker</b></a> takes input on options for a decision you are trying to make and returns a randomly selected
+                choice. It is intended for people like me who perpetually overthink simple things.</td>
         </tr>
 </table>
 
