@@ -92,7 +92,7 @@ I have never fared well in picking the winners of the major awards. Here goes an
 	</tr>
 	<tr>
 		<td style="text-align:left" bgcolor="white">Most Valuable Player</td>
-		<td style="text-align:left" bgcolor="white">Ronald Acuna Jr. (<em>OF, Braves</em>)</td>
+		<td style="text-align:left" bgcolor="white">Ronald Acuña Jr. (<em>OF, Braves</em>)</td>
 	</tr>
 	<tr>
 		<td style="text-align:left" bgcolor="white">Cy Young</td>
