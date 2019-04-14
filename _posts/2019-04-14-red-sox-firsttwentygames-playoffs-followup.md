@@ -33,7 +33,7 @@ Baltimore will likely add another notch to this table this year, Seattle and Mil
 
 Here is the full picture of this trend between making the playoffs and early season record:
 
-![Fig2_PostSeasonPlot](/img/fig2_pstPlot.png)
+![Fig2_PostSeasonPlot](/img/fig2_pstPLOT.png)
 
 Each point represents a franchise, with the size of the point scaled to the number of seasons the franchise has posted with the given win total in the first 20 games (bigger points = more seasons of that win total). The line is a <a href = "https://en.wikipedia.org/wiki/Local_regression" target = "_blank">Loess regression</a>. The <a href = "https://www.baseball-reference.com/teams/BAL/1988.shtml" target = "_blank">1988 Baltimore Orioles</a>, who went 0-20 to start the year are not included. Unsurprisingly, more wins in the early going is related with a higher proportion of playoff appearances. You can also see the stark jump for the Red Sox from 9 to 10 wins that I have been discussing.
 
