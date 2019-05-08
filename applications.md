@@ -58,6 +58,11 @@ tr, td {
             <td style="text-align:center" bgcolor="white"><div class="imgshadow"><a href = "https://cjteeter.shinyapps.io/MLBTeamSynchrony/" target = "_blank"><img src="{{site.url}}/img/app2_ts.png" alt="MLB Team Synchrony"></a></div></td>
             <td bgcolor="white"><a href = "https://cjteeter.shinyapps.io/MLBTeamSynchrony/" target = "_blank"><b>MLB Team Synchrony</b></a> uses major league baseball data from 1998-present to allow users to examine how run scoring and run prevention vary over the course of a season, and how these can be <i>in-sync</i>, leading to periods of consistent results (wins or losses), or <i>out-of-sync</i>, leading to a one-step-forward-one-step-back feeling.</td>
         </tr>
+    <!-- MPHEC Enrolment and Credentials Granted Row -->
+    	<tr>
+    		<td style="text-align:center" bgcolor="white"><div class="imgshadow"><a href = "https://mphec-cespm.shinyapps.io/interactiveopendata_EN/" target = "_blank"><img src="{{site.url}}/img/app4_mphec.png" alt="MPHEC Enrolment and Credentials"></a></div></td>
+    		<td bgcolor="white"><a href = "https://mphec-cespm.shinyapps.io/interactiveopendata_EN/" target = "_blank"><b>MPHEC Interactive Graphs: Enrolment and Credentials Granted</b></a> is an application I built for my current employer, the Maritime Provinces Higher Education Commission (MPHEC). It allows users to explore enrolment and credentials granted data from the universities in the three Maritime provinces. The application is also available in French, <a href = "https://mphec-cespm.shinyapps.io/interactiveopendata_FR/" target = "_blank"><em>here</em></a>.</td>
+        </tr>
     <!-- Decision Maker Row -->
     	<tr>
     		<td style="text-align:center" bgcolor="white"><div class="imgshadow"><a href = "https://cjteeter.shinyapps.io/DecisionMaker/" target = "_blank"><img src="{{site.url}}/img/app1_dm.png" alt="Decision Maker"></a></div></td>
