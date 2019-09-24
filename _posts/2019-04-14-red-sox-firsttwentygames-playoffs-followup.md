@@ -48,3 +48,8 @@ Each point is a team’s season (n = 2,464). As you can see, good teams tend to 
 All in all, this is a bit of early season fun that I have been over-analyzing since I heard it mentioned on a radio broadcast a few years ago. I don’t think there is really anything all that special about the first 20 games of a season. We should avoid overreacting to a team’s performance in the early going; let the season breathe. With this preached, why am I following up on this early-season panic again? Because the 2019 Red Sox are, on paper, pretty clearly one of the five (maybe three) best teams in the American League. So it is likely that they will make the playoffs this year, despite the ugly start. If they do, and obviously I really hope they do, it will mean the end of this fun fact, so I wanted to take one last look. 
 
 Hopefully the 2019 Red Sox end up in the top-left quadrant of that third figure and end the franchise's <em>seasons with a sub-.500 start (in their first 20 games) and no playoffs</em> streak at 46.
+
+-- 
+<em>Update: September 24, 2019</em>
+
+They ended up going 7-13 over the first 20 games of the season and continued to play inconsistently the rest of the way. They will not make the playoffs in 2019, having officially been eliminated last Friday. So this silly fun-fact remains alive; the streak is now at 47. 
