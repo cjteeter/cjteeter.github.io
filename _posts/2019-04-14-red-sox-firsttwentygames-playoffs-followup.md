@@ -49,7 +49,7 @@ All in all, this is a bit of early season fun that I have been over-analyzing si
 
 Hopefully the 2019 Red Sox end up in the top-left quadrant of that third figure and end the franchise's <em>seasons with a sub-.500 start (in their first 20 games) and no playoffs</em> streak at 46.
 
--- 
+--- 
 <em>Update: September 24, 2019</em>
 
 They ended up going 7-13 over the first 20 games of the season and continued to play inconsistently the rest of the way. They will not make the playoffs in 2019, having officially been eliminated last Friday. So this silly fun-fact remains alive; the streak is now at 47. 
