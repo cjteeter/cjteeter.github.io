@@ -24,9 +24,9 @@ Baseball, like much of the rest of society, seems to be in a bad spot right now.
 - Houston Astros ex-Assistant General Manager, Brandon Taubman, acted like a piece of garbage and the Astros <a href = "https://theathletic.com/1317907/2019/10/25/taubman-saga-exposes-longstanding-questions-about-the-astros-culture-under-jim-crane-and-jeff-luhnow/" target = "_blank">supported/defended it until the bitter end</a>.
 - Inappropriate behaviour toward the media (examples: previous item, Astros' pitcher <a href = "https://deadspin.com/the-reason-justin-verlander-had-a-reporter-barred-from-1837578082" target = "_blank">Justin Verlander having a credentialed journalist barred from the clubhouse</a>, ex-Mets' pitcher <a href = "https://www.theguardian.com/sport/2019/jun/23/new-york-mets-jason-vargas-threatens-reporter-mickey-callaway" target = "_blank">Jason Vargas threatening a journalist</a>).
 
-It has been ugly out there. And yet, amidst all of that, I still love the game. Those warts are terrible and need attention, but I still love the game and will (probably) keep watching. It is a part of my life. As evidence: I do these silly picks and predictions articles every year for an audience, which as best as I can tell only includes me. But I write them and will (probably) keep doing so in some form because I enjoy engaging with and writing about the game. 
+It has been ugly out there. And yet, amidst all of that, I still love the game. Those warts are terrible and need attention, but I still love the game and will (probably) keep watching. It is a part of my life. As evidence: I do these silly picks and predictions articles every year for an audience that as best as I can tell only includes me. But I write them up and will (probably) keep doing so in some form because I enjoy engaging with and writing about the game. 
 
-After all that bleakness, here is a review of how I fared with my <a href = "https://www.cteeter.ca/blog/2019-04-02-picks-and-predictions-2019/" target = "_blank">preseason picks</a> for the playoff teams, pennant winners, World Series champion, and major award winners.
+After all that bleakness, here is what the title of this post promised: a review of how I fared with my <a href = "https://www.cteeter.ca/blog/2019-04-02-picks-and-predictions-2019/" target = "_blank">preseason picks</a> for the playoff teams, pennant winners, World Series champion, and major award winners.
 
 ## Playoff Picks
 
@@ -99,11 +99,11 @@ And, here is what actually happened:
 	</tr>
 </table>
 
-There were certainly some surprises this year. The Twins won 101 games! It turns out that Cleveland totally punting on the offseason *was* a bad idea. And now they are taking about trading the face of their franchise, Fransisco Lindor. This offseason could be a turning point for them. How will they go about selling themselves to the fanbase? 
+There were certainly some surprises this year. The Twins won 101 games! It turns out that Cleveland totally punting on the offseason *was* a bad idea. And now they are talking about trading the face of their franchise, Fransisco Lindor. This offseason could be a turning point for the Clevelanders. How will they go about selling themselves to the fanbase after a Lindor trade? 
 
 My predictions were decent. Of the 10 playoff teams, I correctly predicted 7 (3 in the American League, 4 in the National League; continuing the trend of better performance on the NL side I observed <a href = "https://www.cteeter.ca/blog/2018-11-19-picks-and-predictions-2018-review/" target = "_blank">last year</a>). The strength of that 7 relies heavily on ignoring the Division Winner/Wild Card winner distinction. I had the Braves and Cardinals as Wild Card winners, and the Nationals as a Division Winner. Those are all absolutely wrong, but they were all playoff teams so technically right. And I wasn't way off base with that Nationals predication. Outside of a miserable start to the season -- the oft-cited 19-31 record in their first 50 games, mostly the result of injuries -- they were one of the best teams in the game and ended up as World Series Champions, narrowly beating the Astros (my preseason pick) in a 7-game series, that was about as *meh* as a 7-game series can be. 
 
-My Red Sox couldn't ever get out of their own way, struggling all year with occasional fits and starts of success. The run prevention side of the game was their downfall:
+My Red Sox just couldn't ever get out of their own way, struggling all year with occasional fits and starts of success. The run prevention side of the game was their downfall:
 
 ![Fig1_BOS_RSRA](/img/PPreview2019_MLBsyncrony_2019_BOS.png)
 
@@ -112,7 +112,7 @@ Games 85 through 125 were not pretty for the pitching. A similar story of medioc
 
 ## Award Picks
 
-I was about as accurate as ever with my awards picks. I got one prediction correct. Here is the breakdown:
+As is typically the case, I only got one of my awards picks correct. Here is the breakdown:
 
 #### American League
 
@@ -177,15 +177,15 @@ I missed on everyone but Trout, but I was close the other awards. Cole finished 
 	</tr>
 </table>
 
-Again, I was close. Acuña Jr. finished 5th and probably would have finished higher had he not missed the last week of the season, which prevented him from completing the <a href = "https://www.baseball-reference.com/tiny/S7eVr" target = "_blank">fifth ever 40-40 season</a>; Acuña Jr. ended up at 41-37. Scherzer finished third for the Cy Young. We would be talking about Max Scherzer in completely different ways had he not pitched at the same time as Clayton Kershaw and Jacob deGrom. Max has three on his mantle, and finished 5th, 5th, 2nd, and 3rd in the years he didn't win. Scherzer's teammate Victor Robles came sixth in NL Rookie of the Year voting, and their manager, Dave Martinez, finished fifth for Manager of the Year.
+As with the AL, I was close. Acuña Jr. finished 5th and probably would have finished higher had he not missed the last week of the season, which prevented him from completing the <a href = "https://www.baseball-reference.com/tiny/S7eVr" target = "_blank">fifth ever 40-40 season</a>; Acuña Jr. ended up at 41-37. Scherzer finished third for the Cy Young. We would be talking about Max Scherzer in completely different ways had he not pitched at the same time as Clayton Kershaw and Jacob deGrom. Max has three on his mantle, and finished 5th, 5th, 2nd, and 3rd in the years he didn't win. Scherzer's teammate Victor Robles came sixth in NL Rookie of the Year voting, and their manager, Dave Martinez, finished fifth for Manager of the Year.
 
-As is typically the case, I was not accurate with my selections, but my worst pick finished sixth in their category. So I was not *that* terrible this year.
+While I only got one selection *correct*, my worst pick finished sixth in their category. So I was actually not *that* terrible this year.
 
-In fact, it can be argued that 2019 was my best effort in making these predictions. The *error* of each pick can be calculated as: *1 - the rank of my pick within their category*. A perfect score would be 0. In the cases where my pick did not receive any votes then they can be assigned a rank of: *1 + the number of players who received votes*. I did this for all of my picks going back to 2014. Here are the results:
+In fact, it can be argued that 2019 was my best effort in making these predictions. The *error* of each pick can be calculated as: *1 - the rank of my pick within their category*. A perfect score would be 0. In the cases where my pick did not receive any votes then they can be assigned a rank of: *1 + the number of players who received votes*. Using that approach, I determined the error for each of my picks going back to 2014. Here are the season-by-season results:
 
 <table style="width:60%" align="center">
 	<tr>
-		<th style="text-align:center" bgcolor="gainsboro">Year</th>
+		<th style="text-align:center" bgcolor="gainsboro">Season</th>
 		<th style="text-align:center" bgcolor="gainsboro">Sum or Errors</th>
 	</tr>
 	<tr>
@@ -214,11 +214,11 @@ In fact, it can be argued that 2019 was my best effort in making these predictio
 	</tr>
 </table>
     
-In <a href = "https://christopherteeter.wordpress.com/2014/10/14/mlb-picks-predictions-cant-predict-baseball/" target = "_blank">2014</a>, only 3 of my 8 picks even received votes. On a player-basis, Bryce Harper has crushed me. I picked him to win the NL MVP three times (2014, 2016, and 2018) and he did not garner a single vote in any of those years. By category, I have been best with the AL MVP. It is simple, I pick Mike Trout every year and he finishes in the Top 5 every year. We have a nice thing going. Here are the rest of the results by category:
+In <a href = "https://christopherteeter.wordpress.com/2014/10/14/mlb-picks-predictions-cant-predict-baseball/" target = "_blank">2014</a>, only 3 of my 8 picks even received votes. On a player-basis, Bryce Harper has crushed me. I picked him to win the NL MVP three times (2014, 2016, and 2018) and he did not garner a single vote in any of those years. By category, I have been best with the AL MVP. My strategy is simple: I pick Mike Trout every year and he finishes in the Top 5 every year. We have a nice thing going. Here are the rest of the results by award:
     
 <table style="width:75%" align="center">
 	<tr>
-		<th style="text-align:left" bgcolor="gainsboro">Category</th>
+		<th style="text-align:left" bgcolor="gainsboro">Award</th>
 		<th style="text-align:center" bgcolor="gainsboro">Sum or Errors</th>
 	</tr>
 	<tr>
@@ -257,7 +257,7 @@ In <a href = "https://christopherteeter.wordpress.com/2014/10/14/mlb-picks-predi
     
 Thanks again, Bryce.
     
-Due to my low accuracy with these awards picks, I have wavered in my desire to continue making them, but this way of looking at things is much more forgiving and offers a new benchmark to compare against. So I think will keep at it. That, and combining this analysis with the 7/10 I posted in picking playoff teams reveals that 2019 was easily my best performance. 
+My low number of correct selections with these awards picks had me wavering in my desire to continue making them, but this error-magnitude way of looking at things is much more forgiving and offers a new benchmark to compare myself against. So I think will keep at it. 
     
 --
 
