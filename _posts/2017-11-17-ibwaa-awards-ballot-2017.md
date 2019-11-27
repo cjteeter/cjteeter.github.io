@@ -69,7 +69,7 @@ between the two groups over the last couple of years. We shall see how it turns 
 
 Here is how I voted:
 
-<center><img src="/img/Teeter_2017-IBWAA-Ballot.png" style="width:80%"></center>
+<center><img src="/img/posts/ballots/Teeter_2017-IBWAA-Ballot.png" style="width:80%"></center>
 
 Feel free to let me know what you think in the comments below.
 

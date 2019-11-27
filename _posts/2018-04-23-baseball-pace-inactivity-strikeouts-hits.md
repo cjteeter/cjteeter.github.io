@@ -19,17 +19,17 @@ Hits: 5,174
 
 You are reading that correctly. Through Sunday's games, batters have turned heel from the batter's box to find a spot on the bench 388 more times than they have run to (at least) first base safely. That is astounding. And it is new. This is the first season in which strikeouts have outpaced hits. Joe Sheehan has been tracking <a href = "https://twitter.com/joe_sheehan/status/983760333700501504" target = "_blank"> this trend</a> for a <a href = "https://twitter.com/joe_sheehan/status/988445716539375617" target = "_blank"> few weeks</a>. I have been following along and wanted to dig into it further. First, here is the hits:strikeouts ratio for the 1961 to 2018 seasons, see if you can spot the recent trend:  
 
-![Fig1_HperSO_SeasonTotal_1961-2018](/img/Fig1_HperSO_SeasonTotal_1961-2018.png)
+![Fig1_HperSO_SeasonTotal_1961-2018](/img/posts/20180423/Fig1_HperSO_SeasonTotal_1961-2018.png)
 
 I can hear you screaming at me that the figure above compares one month -- and a bitter cold one at that -- for the 2018 season to full seasons for the other years. I agree that is a poor thing to do, but it turns out that limiting things to just March/April doesn't change the story:
 
-![Fig2_HperSO_AprilTotal_1961-2018](/img/Fig2_HperSO_AprilTotal_1961-2018.png)
+![Fig2_HperSO_AprilTotal_1961-2018](/img/posts/20180423/Fig2_HperSO_AprilTotal_1961-2018.png)
 
 There are eight days left in the month, so there is a chance that things get back over that hits:strikeouts breakeven line, but it seems extremely unlikely. Going back to 1908, the first year for which I can grab data from Baseball-Reference (thank you!), there has never been a month in which batters have racked up more strikeouts than hits. March/April 2018 will be the only time, well at least until May 2018, and on and on. This is an awful trend and *is* the problem baseball has. When a batter strikes out the movement on the field is minimal. It makes life easy for the camera men and women capturing the game for us at home, but there is no action. When the ball is in play everybody on the field is moving. It is a great and a truly underappreciated part of the sport. Even the routine 6-3 provides something more than strike three thwacking into the catcher's mitt.
 
 The ball is just not 'in play' as often anymore. Thus far in 2018 the percentage of plate appearances that don't end in a strikeout or a walk is 67.85. I left home runs as balls-in-play because they at least involve some movement on the field and excitement (depending on one's perspective, of course). 67.85% is the lowest ever (since 1908), and, as even the simplest of linear relations shows, the trend over the last 50 years is not good:
 
-![Fig3_BIPp_SeasonTotal_1961-2018](/img/Fig3_BIPp_SeasonTotal_1961-2018.png)
+![Fig3_BIPp_SeasonTotal_1961-2018](/img/posts/20180423/Fig3_BIPp_SeasonTotal_1961-2018.png)
 
 Limiting things to only March/April doesn't change much (*r*<sup>2</sup> = 0.77).
 

@@ -61,6 +61,6 @@ The electorate of these two groups is more and more the same, and even where it 
 
 Here is my ballot:
 
-<center><img src="/img/Teeter_2018-IBWAA-Ballot.png" style="width:80%"></center>
+<center><img src="/img/posts/ballots/Teeter_2018-IBWAA-Ballot.png" style="width:80%"></center>
 
 Feel free to let me know what you think in the comments below.

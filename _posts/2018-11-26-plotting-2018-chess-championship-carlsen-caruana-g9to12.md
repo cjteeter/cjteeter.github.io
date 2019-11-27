@@ -15,7 +15,7 @@ tags:
 
 The 2018 World Chess Championship will go to tie breaks, as Magnus Carlsen and Fabiano Caruana drew the last four games of their match, leaving the score even at 6.0 - 6.0. As in the <a href = "https://www.cteeter.ca/blog/2018-11-20-plotting-2018-chess-championship-carlsen-caruana/" target = "_blank">first eight games</a>, each player had chances but could not convert their advantage into a victory. Here are the games: 
 
-<center><img src="/img/wcc2018_g9to12.png" style="width:98%"></center>
+<center><img src="/img/posts/20181126/wcc2018_g9to12.png" style="width:98%"></center>
 
 Game 12 was really striking. In this winner-take-all game it appeared as though Carlsen had a clear advantage on the board (-1.0 on move 30 according to the analysis tool at <a href = "https://lichess.org/analysis" target = "_blank">Lichess.org</a> and Caruana was under time pressure -- he had around eight minutes left to make his next nine moves and get to the 40-minute time control. But Carlsen offered a draw after move 31, opting to battle-it-out in the speed chess tie breaks.
 

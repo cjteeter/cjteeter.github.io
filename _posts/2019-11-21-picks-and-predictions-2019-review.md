@@ -105,7 +105,7 @@ My predictions were decent. Of the 10 playoff teams, I correctly predicted 7 (3 
 
 My Red Sox just couldn't ever get out of their own way, struggling all year with occasional fits and starts of success. The run prevention side of the game was their downfall:
 
-![Fig1_BOS_RSRA](/img/PPreview2019_MLBsyncrony_2019_BOS.png)
+![Fig1_BOS_RSRA](/img/posts/20191121/PPreview2019_MLBsyncrony_2019_BOS.png)
 
 Games 85 through 125 were not pretty for the pitching. A similar story of mediocrity was true on the <a href = "https://cjteeter.shinyapps.io/MLBTeamSynchrony/?_inputs_&league=%22Both%22&table_widelong=%22wide%22&division=%22All%22&main_tabs=%22RS%20and%20RA%20Plot%22&_values_&games=15&sl_max=50&curSeason=2019&launch=0&team=%22Chicago%20Cubs%22&season=%222019%22" target = "_blank">North Side of Chicago</a>. Both of these teams have fascinating decisions to make this offseason. 
 

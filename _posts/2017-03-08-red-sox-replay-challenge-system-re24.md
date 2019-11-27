@@ -4,7 +4,7 @@ title: The Red Sox and the Instant Replay Challenge System
 date: 2017-03-08 12:20:00 -0300
 use-site-title: true
 comments: true
-image: /img/Fig3_mgr-rates_logos.png
+image: /img/posts/20170308/Fig3_mgr-rates_logos.png
 tags:
 - BP Boston
 - Instant replay
@@ -28,11 +28,11 @@ what I mean by comparing the two plots below:
 
 Logos (as in the published article):
 
-![replay_logos](/img/Fig3_mgr-rates_logos.png)
+![replay_logos](/img/posts/20170308/Fig3_mgr-rates_logos.png)
 
 Colour scheme (with a few points highlighted with text):
 
-![replay_colour](/img/Fig1_mgr-rates.png)
+![replay_colour](/img/posts/20170308/Fig1_mgr-rates.png)
 
 
 As you can see, the colour scheme gets the job done, but having the logos greatly simplifies things for the reader.

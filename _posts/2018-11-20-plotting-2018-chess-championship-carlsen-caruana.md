@@ -21,13 +21,13 @@ In chess the advantage is measured not in win probability, as it is in baseball,
 
 Using the Analysis tool at <a href = "https://lichess.org/analysis" target = "_blank">Lichess.org</a> (which runs the aforementioned Stockfish engine), I have been tracking the move-by-move advantages in each game. After the players make a move, I make the move and record the advantage that the engine produces from its projection (typically to a depth of 22 moves into the future). And from that I generated 'win probability'-ish graphs. Here are Games 1-4:
 
-<center><img src="/img/wcc2018_g1to4.png" style="width:98%"></center>
+<center><img src="/img/posts/20181120/wcc2018_g1to4.png" style="width:98%"></center>
 
 Pawn advantage units are on the y-axis (from -5.0 to +5.0), converted to be displayed with reference to the player. Moves are on the x-axis, with the key time control moments indicated. As for time, the players each get 100 minutes for their first 40 moves, gaining 30-seconds after each move. After they complete 40 moves they get 50 minutes added to their clock, and another 15 minutes is added after move 60. You can see that Games 1 and 2 had some real chances for each player. Carlsen let a strong chance slip in Game 1 (in fact his -2.7 was the highest advantage in any game thus far). But then Games 3 and 4 really never got off the mat; things were always within a pawn. These guys are remarkably good. It is stunning how often they play the 'best move' suggested by the engine. 
 
 Here are Games 5-8:
 
-<center><img src="/img/wcc2018_g5to8.png" style="width:98%"></center>
+<center><img src="/img/posts/20181120/wcc2018_g5to8.png" style="width:98%"></center>
 
 Just like the first four games, in Games 5 through 8 there were two with clear advantages and two that never really moved much from equality. The engine had Caruana with more than a pawn advantage in Game 6 (-1.7 around move 60) and in Game 8 (1.2 around move 22), but he was unable to convert the advantage to a win. Easy for me and an engine to say he should have won, but having to calculate the advantage (perhaps 20+ moves into the future) and make <i>all</i> of the requisite moves in the moment while sitting across from one of the greatest players ever is not so easy.
 

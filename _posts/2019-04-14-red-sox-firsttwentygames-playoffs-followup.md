@@ -16,7 +16,7 @@ For whatever reason (likely the randomness inherent to baseball), getting a 10th
 
 Here is the distribution of win totals in the first 20 games for all franchises (since 1903; all data from <a href = "https://www.baseball-reference.com/" target = "_blank">Baseball-Reference</a>):
 
-![Fig1_WinsHistogram](/img/fig1_winsHist.png)
+![Fig1_WinsHistogram](/img/posts/20190414/fig1_winsHist.png)
 
 It is also important to note that the Red Sox franchise is not alone in, or even the worst example of, this ignominy:
 
@@ -33,7 +33,7 @@ Baltimore will likely add another notch to this table this year, Seattle and Mil
 
 Here is the full picture of this trend between making the playoffs and early season record:
 
-![Fig2_PostSeasonPlot](/img/fig2_pstPLOT.png)
+![Fig2_PostSeasonPlot](/img/posts/20190414/fig2_pstPLOT.png)
 
 Each point represents a franchise, with the size of the point scaled to the number of seasons the franchise has posted with the given win total in the first 20 games (bigger points = more seasons of that win total). The line is a <a href = "https://en.wikipedia.org/wiki/Local_regression" target = "_blank">Loess regression</a>. The <a href = "https://www.baseball-reference.com/teams/BAL/1988.shtml" target = "_blank">1988 Baltimore Orioles</a>, who went 0-20 to start the year are not included. Unsurprisingly, more wins in the early going is related with a higher proportion of playoff appearances. You can also see the stark jump for the Red Sox from 9 to 10 wins that I have been discussing.
 
@@ -41,7 +41,7 @@ Since 1903, 10.9% of the 348 nine-win (in first 20 games) non-Boston Red Sox tea
 
 Making the playoffs is a somewhat arbitrary (and strict) measure of success. It depends on the performance of other teams, and even the rules of the league (e.g., there were no Wild Cards before 1994). So rather than restricting this analysis to playoff appearances, I could have used a team's win percentage after the first 20 games as the measure of success. Does a team’s winning percentage in their first 20 games predict their winning percentage over the rest of their games? A little bit:
 
-![Fig3_WinPctPlot](/img/fig3_winPCT.png)
+![Fig3_WinPctPlot](/img/posts/20190414/fig3_winPCT.png)
 
 Each point is a team’s season (n = 2,464). As you can see, good teams tend to play well and bad teams tend to play poorly. However, sometimes teams start poorly but then play well over the rest of the season (top-left quadrant); including some of those non-playoff Red Sox teams on whom I have been focusing, which highlights how limiting things to playoffs appearances gets us a fun fact but doesn't accurately describe how the team's season played out after Game 20.
 

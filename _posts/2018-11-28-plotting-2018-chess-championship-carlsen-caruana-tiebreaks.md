@@ -32,7 +32,7 @@ I should be clear that I don't think there is anything wrong with Carlsen opting
 
 But enough of all that, here is how the games played out (<i>note</i>: the y-axis ranges +12 to -12 here rather than the +5 to -5 I used for the figures in my posts on <a href = "https://www.cteeter.ca/blog/2018-11-20-plotting-2018-chess-championship-carlsen-caruana/" target = "_blank">Games 1-8</a> and <a href = "https://www.cteeter.ca/blog/2018-11-26-plotting-2018-chess-championship-carlsen-caruana-g9to12/" target = "_blank">9-12</a>):
 
-<center><img src="/img/wcc2018_rapids.png" style="width:98%"></center>
+<center><img src="/img/posts/20181128/wcc2018_rapids.png" style="width:98%"></center>
 
 You can see how Carlsen just pounced on key Caruana mistakes in each game and drove things decidedly in his direction. The advantage Carlsen had in Game 3 is actually off the plot. He was +12.6 on move 49 and then +64 for moves 50 and 51.
 

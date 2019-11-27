@@ -24,8 +24,8 @@ to avoid having opponents hit them hard varies considerably, which seems to fit 
 batting average on balls in play (BABIP). You can see the difference between batter and pitcher year-to-year correlations in
 the plot below:
 
-![y2y_Brls-BBE](/img/Fig3a_bat&pit_brlsBBE.png)
+![y2y_Brls-BBE](/img/posts/20170321/Fig3a_bat&pit_brlsBBE.png)
 
-You can also look at the per plate appearance measure [Brls/PA](/img/Fig3b_bat&pit_brlsPA.png).
+You can also look at the per plate appearance measure [Brls/PA](/img/posts/20170321/Fig3b_bat&pit_brlsPA.png).
 
 Getting another season's worth of data will help us to understand how much of this barrels metric is signal and how much is noise.
