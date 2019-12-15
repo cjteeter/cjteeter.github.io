@@ -18,19 +18,19 @@ As the end of the decade approaches, recap and best-of articles abound. One such
 
 When the Red Sox signed Carl Crawford before the 2011 season, I was ecstatic. Crawford had spent nine seasons tormenting the Red Sox as a member of the Tampa Bay (Devil) Rays. The image of Crawford taking a lead off first base likely keeps <a href = "https://www.baseball-reference.com/tiny/7FwjA" target = "_blank">Jason Varitek up at night</a> -- <a href = "https://www.baseball-reference.com/tiny/H9BBx" target = "_blank">6 stolen bases in one game is incredible</a>. While it might be hard to remember now given how things transpired in Boston (and then Los Angeles), Crawford was one of baseball's best players for much of the new millennium's first decade. In the years between 2002 (Crawford's first full-ish MLB season) to 2010 (his last season in Tampa Bay), he accumulated <a href = "https://www.fangraphs.com/leaders.aspx?pos=all&stats=bat&lg=all&qual=y&type=8&season=2010&month=0&season1=2002&ind=0&team=0&rost=0&age=&filter=&players=0&startdate=&enddate=" target = "_blank">36.9 FanGraphs Wins Above Replacement</a> (fWAR), a total that only 11 players surpassed over that timeframe; each of whom has a strong case for enshrinement in Cooperstown. 
 
-At the time of Crawford's signing in Boston, it was reasonable to argue that he too was on a path to the Hall of Fame. On every player's <a href = "https://www.baseball-reference.com/" target = "_blank">Baseball Reference</a> page there is a list of similar players (overall, and by age) derived using <a href = "https://www.baseball-reference.com/about/similarity.shtml" target = "_blank">Bill James' similarity score concept</a>. Below is the list of Crawford's five most similar historical players through age 28 (his career before Boston), along with how many Baseball Reference WAR (bWAR) those players produced over their next five seasons: 
+At the time of Crawford's signing in Boston, it was reasonable to argue that he too was on a path to the Hall of Fame. On every player's <a href = "https://www.baseball-reference.com/" target = "_blank">Baseball Reference</a> page there is a list of similar players (overall, and by age) derived using <a href = "https://www.baseball-reference.com/about/similarity.shtml" target = "_blank">Bill James' similarity score concept</a>. Below is the list of Crawford's five most similar historical players through age 28 (his career before Boston), along with how many Baseball Reference WAR (bWAR) those players produced over their next six seasons: 
 
-<table class = "table table-hover" style = "width:98%" align = "center">
+<table class = "table table-hover" align = "center" style = "width:98%">
 <thead>
 <tr> 
 	<th rowspan = "2" bgcolor = "gainsboro" valign = "bottom">Rk</th>
 	<th rowspan = "2" bgcolor = "gainsboro" valign = "bottom">Player</th>
 	<th rowspan = "2" bgcolor = "gainsboro" valign = "bottom">Pos</th>
 	<th rowspan = "2" bgcolor = "gainsboro" valign = "bottom">SimScore</th>
-	<th colspan = "7" align = "center" bgcolor = "gainsboro" style = "border-bottom: 1px solid black">bWAR by Age</th>
-	<th rowspan = "2" bgcolor = "gainsboro" valign = "bottom">Total 29-34</th>
+	<th colspan = "7" bgcolor = "gainsboro" style = "border-bottom: 1px solid black; text-align:center">bWAR by Age</th>
+	<th rowspan = "2" bgcolor = "gainsboro" valign = "bottom" style = "text-align:right">Total 29-34</th>
 </tr>
-<tr style = "border-bottom: 2px solid black">
+<tr style = "border-bottom: 3px solid black">
 	<th bgcolor = "gainsboro">Thru28</th>
 	<th bgcolor = "gainsboro">29</th>
 	<th bgcolor = "gainsboro">30</th>
@@ -44,86 +44,86 @@ At the time of Crawford's signing in Boston, it was reasonable to argue that he 
 <tr style = "border-bottom: 0.5px solid gainsboro; font-weight:bold">
 	<td>-</td>
 	<td>Carl Crawford</td>
-	<td align = "center">LF</td>
-	<td align = "right">1000</td>
-	<td align = "right">35.6</td>
-	<td align = "right">0.3</td>
-	<td align = "right">0.6</td>
-	<td align = "right">1.6</td>
-	<td align = "right">2.4</td>
-	<td align = "right">-0.1</td>
-	<td align = "right">-1.0</td>
-	<td align = "right">3.8</td>
+	<td style="text-align:center">LF</td>
+	<td style="text-align:right">1000</td>
+	<td style="text-align:right">35.6</td>
+	<td style="text-align:right">0.3</td>
+	<td style="text-align:right">0.6</td>
+	<td style="text-align:right">1.6</td>
+	<td style="text-align:right">2.4</td>
+	<td style="text-align:right">-0.1</td>
+	<td style="text-align:right">-1.0</td>
+	<td style="text-align:right">3.8</td>
 </tr>
 <tr style = "border-bottom: 0.5px solid gainsboro">
 	<td>1</td>
 	<td>Roberto Clemente</td>
-	<td align = "center">RF</td>
-	<td align = "right">926.5</td>
-	<td align = "right">29.9</td>
-	<td align = "right">7.2</td>
-	<td align = "right">7.1</td>
-	<td align = "right">8.2</td>
-	<td align = "right">8.9</td>
-	<td align = "right">8.1</td>
-	<td align = "right">7.5</td>
-	<td align = "right">47.0</td>
+	<td style="text-align:center">RF</td>
+	<td style="text-align:right">926.5</td>
+	<td style="text-align:right">29.9</td>
+	<td style="text-align:right">7.2</td>
+	<td style="text-align:right">7.1</td>
+	<td style="text-align:right">8.2</td>
+	<td style="text-align:right">8.9</td>
+	<td style="text-align:right">8.1</td>
+	<td style="text-align:right">7.5</td>
+	<td style="text-align:right">47.0</td>
 </tr>
 <tr style = "border-bottom: 0.5px solid gainsboro">
 	<td>2</td>
 	<td>Sherry Magee</td>
-	<td align = "center">LF/1B</td>
-	<td align = "right">911.6</td>
-	<td align = "right">43.4</td>
-	<td align = "right">4.9</td>
-	<td align = "right">4.8</td>
-	<td align = "right">1.3</td>
-	<td align = "right">0.5</td>
-	<td align = "right">1.7</td>
-	<td align = "right">2.5</td>
-	<td align = "right">15.7</td>
+	<td style="text-align:center">LF/1B</td>
+	<td style="text-align:right">911.6</td>
+	<td style="text-align:right">43.4</td>
+	<td style="text-align:right">4.9</td>
+	<td style="text-align:right">4.8</td>
+	<td style="text-align:right">1.3</td>
+	<td style="text-align:right">0.5</td>
+	<td style="text-align:right">1.7</td>
+	<td style="text-align:right">2.5</td>
+	<td style="text-align:right">15.7</td>
 </tr>
 <tr style = "border-bottom: 0.5px solid gainsboro">
 	<td>3</td>
 	<td>Sam Crawford</td>
-	<td align = "center">RF/1B</td>
-	<td align = "right">904.2</td>
-	<td align = "right">39.7</td>
-	<td align = "right">5.6</td>
-	<td align = "right">3.3</td>
-	<td align = "right">5.7</td>
-	<td align = "right">4.7</td>
-	<td align = "right">5.2</td>
-	<td align = "right">6.2</td>
-	<td align = "right">30.7</td>
+	<td style="text-align:center">RF/1B</td>
+	<td style="text-align:right">904.2</td>
+	<td style="text-align:right">39.7</td>
+	<td style="text-align:right">5.6</td>
+	<td style="text-align:right">3.3</td>
+	<td style="text-align:right">5.7</td>
+	<td style="text-align:right">4.7</td>
+	<td style="text-align:right">5.2</td>
+	<td style="text-align:right">6.2</td>
+	<td style="text-align:right">30.7</td>
 </tr>
 <tr style = "border-bottom: 0.5px solid gainsboro">
 	<td>4</td>
 	<td>Cesar Cedeno</td>
-	<td align = "center">CF/1B</td>
-	<td align = "right">899.6</td>
-	<td align = "right">44.2</td>
-	<td align = "right">5.1</td>
-	<td align = "right">0.4</td>
-	<td align = "right">0.9</td>
-	<td align = "right">0.4</td>
-	<td align = "right">1.3</td>
-	<td align = "right">-0.2</td>
-	<td align = "right">7.9</td>
+	<td style="text-align:center">CF/1B</td>
+	<td style="text-align:right">899.6</td>
+	<td style="text-align:right">44.2</td>
+	<td style="text-align:right">5.1</td>
+	<td style="text-align:right">0.4</td>
+	<td style="text-align:right">0.9</td>
+	<td style="text-align:right">0.4</td>
+	<td style="text-align:right">1.3</td>
+	<td style="text-align:right">-0.2</td>
+	<td style="text-align:right">7.9</td>
 </tr>
 <tr style = "border-bottom: 0.5px solid gainsboro">
 	<td>5</td>
 	<td>Tim Raines</td>
-	<td align = "center">LF</td>
-	<td align = "right">897.4</td>
-	<td align = "right">42.1</td>
-	<td align = "right">3.7</td>
-	<td align = "right">2.9</td>
-	<td align = "right">3.2</td>
-	<td align = "right">6.3</td>
-	<td align = "right">3.8</td>
-	<td align = "right">1.8</td>
-	<td align = "right">21.7</td>
+	<td style="text-align:center">LF</td>
+	<td style="text-align:right">897.4</td>
+	<td style="text-align:right">42.1</td>
+	<td style="text-align:right">3.7</td>
+	<td style="text-align:right">2.9</td>
+	<td style="text-align:right">3.2</td>
+	<td style="text-align:right">6.3</td>
+	<td style="text-align:right">3.8</td>
+	<td style="text-align:right">1.8</td>
+	<td style="text-align:right">21.7</td>
 </tr>
 </tbody>
 </table>
