@@ -144,3 +144,4 @@ exclude:
 
 plugins:
   - jekyll-paginate
+# - jekyll-feed
