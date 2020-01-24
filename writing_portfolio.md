@@ -6,8 +6,7 @@ use-site-title: true
 show-avatar: true
 ---
 
-Over the last five years, I have contributed writing and research to analytically-inclined baseball websites. Here you can find links to
-some of what I consider my best work. The articles are listed reverse-chronologically. 
+Below you can find links to some of what I consider the best work that I contributed to analytically-inclined baseball websites. The articles are listed reverse-chronologically. 
 
 - <a href = "http://boston.locals.baseballprospectus.com/2017/05/09/when-the-strikeout-never-comes/" target = "_blank"> When the Strikeout Never Comes</a>
 (BP Boston; May 9, 2017)
@@ -45,9 +44,7 @@ some of what I consider my best work. The articles are listed reverse-chronologi
 (Beyond the Box Score; January 15, 2014)
 
 
-These pieces are just a selection of my work, but I re-post everything from the sites at which I contribute to this site. You can find links on the [archive page](/archive/) or at my <a href = "https://christopherteeter.wordpress.com/" target = "_blank"> previous website</a>, 
+Those articles are a selection of my work, but I have re-posted everything from the sites at which I contributed to this site. You can find links on the [archive page](/archive/) or at my <a href = "https://christopherteeter.wordpress.com/" target = "_blank"> previous website</a>, 
 which has a complete pre-2017 archive.
-
-<a href = "https://cteeter.us16.list-manage.com/subscribe?u=831a9689f8a79176ce6f1c5ce&id=711d4bfb2a" target="_blank"> Subscribe to the site</a> and you will receive an email when new content is posted.
 
 Feel free to contact me with any comments or questions.
