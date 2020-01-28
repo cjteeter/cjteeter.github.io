@@ -44,7 +44,7 @@ Below you can find links to some of what I consider the best work that I contrib
 (Beyond the Box Score; January 15, 2014)
 
 
-Those articles are a selection of my work, but I have re-posted everything from the sites at which I contributed to this site. You can find links on the [archive page](/archive/) or at my <a href = "https://christopherteeter.wordpress.com/" target = "_blank"> previous website</a>, 
+Those articles are a selection of my work. Everything else can be found on the [archive page](/archive/) of this site or at my <a href = "https://christopherteeter.wordpress.com/" target = "_blank"> previous website</a>, 
 which has a complete pre-2017 archive.
 
 Feel free to contact me with any comments or questions.
