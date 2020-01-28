@@ -11,7 +11,7 @@ tags:
 - Playoffs
 ---
 
-This is long overdue, but here is a quick follow-up on <a href = "https://www.cteeter.ca/blog/2018-04-23-baseball-pace-inactivity-strikeouts-hits/" target = "_blank">baseball's pace/inactivity problem</a> I wrote about in April. Pace of play was a constant talking point around the game this past season, and discussion of the issue has persisted this winter. As I wrote in April, I don't consider the problem so much a 'pace' problem, so much as an 'inactivity' problem. After the first month of the season there had been more strikeouts (7,335) than hits (6,992), which had never happened in a month of play in the history of the game. And then it happened two more times in 2018: 
+This is long overdue, but here is a quick follow-up on <a href = "https://www.cteeter.ca/blog/2018-04-23-baseball-pace-inactivity-strikeouts-hits/" target = "_blank">baseball's pace/inactivity problem</a> I wrote about in April. Pace of play was a constant talking point around the game this past season, and discussion of the issue has persisted this winter. As I wrote in April, I don't consider the problem a 'pace' problem. Rather, I think it is an 'inactivity' problem. After the first month of the season there had been more strikeouts (7,335) than hits (6,992), which had never happened in a month of play in the history of the game. And then it happened two more times in 2018: 
 
 <table style="width:85%" align="center">
 	<tr>
@@ -60,9 +60,9 @@ This is long overdue, but here is a quick follow-up on <a href = "https://www.ct
 
 Even in May, when hits prevailed over strikeouts, it was only by 60. 
 
-All told, there were 41,207 strikeouts and 41,019 hits in 2018, making it the first season since 1908 (the first year for which data are available) in which there were fewer hits than strikeouts in a season. The balls-in-play percentage for 2018 settled under the 70% mark at 69.27, just the second time since 1908 that has been the case; to find the first you have to go all the way back to 2017, when it finished at 69.81.
+All told, there were 41,207 strikeouts and 41,019 hits in 2018, making it the first season since 1908 (the first year for which data are available) in which there were fewer hits than strikeouts in a season. And it is not just a lack of hits, the lack of balls-in-play is also an issue. For 2018, the balls-in-play percentage settled under the 70% mark at 69.27, just the second time since 1908 that has been the case; to find the first you have to go all the way back to 2017, when it finished at 69.81. The baseball being played in recent times is pretty stagnant.
 
-The inactivity of things did not get any better when the bright lights of the postseason -- and many more eyeballs -- were on the sport. The 2018 postseason included 635 strikeouts and 492 hits. Now, it is not entirely new for strikeouts to be more frequent than hits in the postseason, it happened in seven of the last ten years, but the 0.77 hits:strikeouts ratio posted this year was the lowest:
+Possibly making matters worse, the hits:strikeouts ratio did not get any better when the bright lights of the postseason -- and many more eyeballs -- were on the sport. The 2018 postseason included 635 strikeouts and 492 hits. It is not entirely new for strikeouts to be more frequent than hits in the postseason -- it happened in seven of the last ten years -- but the 0.77 hits:strikeouts ratio posted this year was the lowest:
 
 <table style="width:85%" align="center">
 	<tr>
@@ -133,10 +133,10 @@ The inactivity of things did not get any better when the bright lights of the po
 	</tr>
 </table>
 
-This level of inactivity is an issue, not necessarily for people like me, but for the average fan and/or young person just coming to the game. I see how the game seems boring. Having the ball in play more often, with fielders chasing it, runners advancing on the bases, and runs being scored will be better for the game's entertainment value. As an example (of most of those things), look at this:
+The lack of hits (and balls-in-play) is an issue, not necessarily for people like me, but for the average fan and/or young person just coming to the game I see how the game seems boring. Having the ball in play more often, with fielders chasing it, runners advancing on the bases, and runs being scored is better for the game's entertainment value. As an example (of most of those things), look at this:
 
 <div align = 'center'><iframe src="https://streamable.com/m/2516847683" width="560" height="315" frameborder="0" allowfullscreen></iframe></div>
 
-That is an out, just like a strikeout is. But there is no doubt that it is much, much more exciting than a strikeout. Solid contact is made by the batter, aggressive (perhaps too much so) baserunning follows, and then a ludicrously impressive display of defense erases the batter. It is an out and after that play we were still looking up - - - &#124; <i>1 outs</i> in our <a href = "http://www.tangotiger.net/re24.html" target = "_blank">run expectancy tables</a>, but the path to doing so was a lot more fun than with a strikeout. Obviously this is an outlier example, mostly selected so that I can re-revel in the joy of watching Mookie Betts play baseball, but the point that more happens when the ball is put in play still stands. 
+That is an out, just like a strikeout is. But there is no doubt that it is much, much more exciting than a strikeout. Solid contact is made by the batter, aggressive (perhaps too much so) baserunning follows, and then a ludicrously impressive display of defense erases the batter. The end result is a leadoff out and after that play we were still looking up - - - &#124; <i>1 outs</i> in our <a href = "http://www.tangotiger.net/re24.html" target = "_blank">run expectancy tables</a>, but the path to doing so was a lot more fun than it would have been with a strikeout. Obviously this is an outlier example, mostly selected so that I can re-revel in the joy of watching Mookie Betts play baseball, but the point that more happens when the ball is in play stands.
 
-Right now baseball is missing the ball in play, and it seems like many viewers/commenters would like it to come back.
+Baseball is missing the ball in play and it seems like many viewers/commenters would like it to come back.
