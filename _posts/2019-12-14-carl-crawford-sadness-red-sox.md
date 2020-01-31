@@ -6,7 +6,6 @@ use-site-title: true
 comments: true
 archive: true
 subscribe: true
-image:
 tags:
 - Carl Crawford
 - Career progression
