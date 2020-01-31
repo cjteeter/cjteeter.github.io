@@ -51,7 +51,9 @@ tr, td {
     <!-- The Masters Row -->
         <tr>
             <td style="text-align:center" bgcolor="white"><div class="imgshadow"><a href = "https://cjteeter.shinyapps.io/MastersGolf/" target = "_blank"><img src="{{site.url}}/img/app3_mg.png" alt="Masters Golf"></a></div></td>
-            <td bgcolor="white"><a href = "https://cjteeter.shinyapps.io/MastersGolf/" target = "_blank"><b>The Masters</b></a> offers users a tool to explore and visualize the history of <i>The Masters</i> golf tournament. Among other things, you can see whether scores have changed over time, play with aggregated historical leaderboards, and review players' scoring averages.</td>
+            <td bgcolor="white"><a href = "https://cjteeter.shinyapps.io/MastersGolf/" target = "_blank"><b>The Masters</b></a> offers users a tool to explore and visualize the history of <i>The Masters</i> golf tournament. Among other things, you can see whether scores have changed over time, play with aggregated historical leaderboards, and review players' scoring averages.
+<p></p>
+<font size="2"><em>This is included on <a href = "https://shiny.rstudio.com/gallery/" target = "_blank">RStudio's Shiny User Showcase</a></em>.</font></td>
         </tr>
     <!-- MLB Team Synchrony Row -->
         <tr>
