@@ -29,7 +29,7 @@ It is also important to note that the Red Sox franchise is not alone in, or even
   <tr> <td style="text-align:left" bgcolor="white"> Washington </td> <td style="text-align:center" bgcolor="white"> 19 </td> </tr> 
 </table>
 
-Baltimore will likely add another notch to this table this year, Seattle and Milwaukee already have 13 and 9 wins, respectively, so their counts won’t increase, and then there is Boston and Washington. Both have struggled out of the gate this year, but both are considered strong playoff contenders, so maybe this is the year they remove themselves.
+Other franchises have had plenty of sub-.500 starts in their first 20 games, but have made the playoffs in at least one of those years. The five franchises above are the only ones who have never made the playoffs in a season that started 9-11 or worse. Baltimore will likely add another notch to this table this year, Seattle and Milwaukee already have 13 and 9 wins, respectively, so their counts won’t increase, and then there is Boston and Washington. Both have struggled out of the gate this year, but both are considered strong playoff contenders, so maybe this is the year they remove themselves.
 
 Here is the full picture of this trend between making the playoffs and early season record:
 

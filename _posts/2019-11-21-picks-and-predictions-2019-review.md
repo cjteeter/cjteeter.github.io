@@ -145,7 +145,7 @@ As is typically the case, I only got one of my awards picks correct. Here is the
 </table>
 
 
-I missed on everyone but Trout, but I was close the other awards. Cole finished second, Jimenez finished fourth, and Cash finished third.
+I missed on everyone but Trout, but I was close on the other awards. Cole finished second, Jimenez finished fourth, and Cash finished third.
 
 #### National League
 
