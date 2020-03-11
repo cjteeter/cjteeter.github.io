@@ -6,7 +6,7 @@ use-site-title: true
 show-avatar: true
 ---
 
-I focus on using statistical analysis to explore topics in baseball and other sports. In addition to this site, my articles have appeared in Beyond the Box Score and Baseball Prospectus Boston. Below you can find links to some of what I consider my best (or at least most interesting) work. The articles are listed reverse-chronologically.
+I focus on using statistical analysis to explore topics in baseball and other sports. In addition to this site, my articles have appeared at <a href ="http://boston.locals.baseballprospectus.com/" target = "_blank"> Baseball Prospectus Boston</a> and <a href = "http://www.beyondtheboxscore.com/" target  = "_blank"> Beyond the Box Score</a>. Below you can find links to some of what I consider my best (or at least most interesting) work. The articles are listed reverse-chronologically.
 
 - <a href = 'https://www.cteeter.ca/blog/2019-11-29-home-run-surge-baseball-drag/' target = '_blank'> An extra-flighty ball lifted more batters</a> (November 29, 2019)
 - <a href = 'https://www.cteeter.ca/blog/2019-04-14-red-sox-firsttwentygames-playoffs-followup/' target = '_blank'> The probable (hopeful!) end of a Red Sox fun fact</a> (April 14, 2019)
