@@ -155,6 +155,4 @@ For just over two years, I wrote for (and was an editor at) <a href = "http://ww
 --
 
 
-<a href = "https://cteeter.us16.list-manage.com/subscribe?u=831a9689f8a79176ce6f1c5ce&id=711d4bfb2a" target="_blank"> Subscribe to this site</a> and you will receive an email when new content is posted.
-
 Feel free to [contact me]({{site.url}}/contact/) with any comments or questions.
