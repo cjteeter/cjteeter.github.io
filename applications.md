@@ -63,7 +63,7 @@ tr, td {
     <!-- MPHEC Enrolment and Credentials Granted Row -->
     	<tr>
     		<td style="text-align:center" bgcolor="white"><div class="imgshadow"><a href = "https://mphec-cespm.shinyapps.io/interactiveopendata_EN/" target = "_blank"><img src="{{site.url}}/img/app4_mphec.png" alt="MPHEC Enrolment and Credentials"></a></div></td>
-    		<td bgcolor="white"><a href = "https://mphec-cespm.shinyapps.io/interactiveopendata_EN/" target = "_blank"><b>MPHEC Interactive Graphs: Enrolment and Credentials Granted</b></a> is an application I built for my current employer, the Maritime Provinces Higher Education Commission (MPHEC). It allows users to explore enrolment and credentials granted data from the universities in the three Maritime provinces. The application is also available in French, <a href = "https://mphec-cespm.shinyapps.io/interactiveopendata_FR/" target = "_blank"><em>here</em></a>.</td>
+    		<td bgcolor="white"><a href = "https://mphec-cespm.shinyapps.io/interactiveopendata_EN/" target = "_blank"><b>MPHEC Interactive Graphs: Enrolment and Credentials Granted</b></a> is an application I built for my current employer, the Maritime Provinces Higher Education Commission (MPHEC). It allows users to explore enrolment and credentials granted data from the universities in the three Maritime provinces. The application is also available in <a href = "https://mphec-cespm.shinyapps.io/interactiveopendata_FR/" target = "_blank"><em>French</em></a>.</td>
         </tr>
     <!-- Decision Maker Row -->
     	<tr>
