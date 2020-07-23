@@ -17,7 +17,7 @@ I am late to post my annual picks and predictions this year. Most teams have alr
 
 Here are the 10 teams I think will make the playoffs, the league champions, and the world series winner:
 
-<table style="width:100%" align="center">
+<table style="width:98%" align="center">
 	<tr>
 		<th style="text-align:center" bgcolor="gainsboro"> </th>
 		<th style="text-align:center" bgcolor="gainsboro">East</th>
@@ -30,30 +30,30 @@ Here are the 10 teams I think will make the playoffs, the league champions, and 
 	</tr>
 	<tr>
 		<th bgcolor="white">AL</th>
-		<td style="text-align:center" bgcolor="white"><img src="{{site.url}}/img/logos/RedSox.png" alt="Red Sox" width="85%"></td>
-		<td style="text-align:center" bgcolor="white"><img src="{{site.url}}/img/logos/Indians.png" alt="Cleveland" width="85%"></td>
-		<td style="text-align:center" bgcolor="white"><img src="{{site.url}}/img/logos/Astros.png" alt="Astros" width="85%"></td>
-		<td style="text-align:center" bgcolor="white"><img src="{{site.url}}/img/logos/Yankees.png" alt="Yankees" width="85%"></td>
-		<td style="text-align:center" bgcolor="white"><img src="{{site.url}}/img/logos/Rays.png" alt="Rays" width="85%"></td>
-		<td style="text-align:center" bgcolor="white"><img src="{{site.url}}/img/logos/Astros.png" alt="Astros"></td>
-		<td style="text-align:center" rowspan="2" bgcolor="white"><img src="{{site.url}}/img/logos/Astros.png" alt="Astros"></td>
+		<td style="text-align:center" bgcolor="white"><img src="{{site.url}}/img/MLB_logos/RedSox.png" alt="Red Sox" width="85%"></td>
+		<td style="text-align:center" bgcolor="white"><img src="{{site.url}}/img/MLB_logos/Cleveland.png" alt="Cleveland" width="85%"></td>
+		<td style="text-align:center" bgcolor="white"><img src="{{site.url}}/img/MLB_logos/Astros.png" alt="Astros" width="85%"></td>
+		<td style="text-align:center" bgcolor="white"><img src="{{site.url}}/img/MLB_logos/Yankees.png" alt="Yankees" width="85%"></td>
+		<td style="text-align:center" bgcolor="white"><img src="{{site.url}}/img/MLB_logos/Rays.png" alt="Rays" width="85%"></td>
+		<td style="text-align:center" bgcolor="white"><img src="{{site.url}}/img/MLB_logos/Astros.png" alt="Astros" width="90%"></td>
+		<td style="text-align:center" rowspan="2" bgcolor="white"><img src="{{site.url}}/img/MLB_logos/Astros.png" alt="Astros"></td>
 	</tr>
 	<tr>
 		<th bgcolor="white">NL</th>
-		<td style="text-align:center" bgcolor="white"><img src="{{site.url}}/img/logos/Nationals.png" alt="Nationals" width="85%"></td>
-		<td style="text-align:center" bgcolor="white"><img src="{{site.url}}/img/logos/Cubs.png" alt="Cubs" width="85%"></td>
-		<td style="text-align:center" bgcolor="white"><img src="{{site.url}}/img/logos/Dodgers.png" alt="Dodgers" width="85%"></td>
-		<td style="text-align:center" bgcolor="white"><img src="{{site.url}}/img/logos/Cardinals.png" alt="Cardinals" width="85%"></td>
-		<td style="text-align:center" bgcolor="white"><img src="{{site.url}}/img/logos/Braves.png" alt="Braves" width="85%"></td>
-		<td style="text-align:center" bgcolor="white"><img src="{{site.url}}/img/logos/Dodgers.png" alt="Dodgers"></td>
+		<td style="text-align:center" bgcolor="white"><img src="{{site.url}}/img/MLB_logos/Nationals.png" alt="Nationals" width="85%"></td>
+		<td style="text-align:center" bgcolor="white"><img src="{{site.url}}/img/MLB_logos/Cubs.png" alt="Cubs" width="85%"></td>
+		<td style="text-align:center" bgcolor="white"><img src="{{site.url}}/img/MLB_logos/Dodgers.png" alt="Dodgers" width="85%"></td>
+		<td style="text-align:center" bgcolor="white"><img src="{{site.url}}/img/MLB_logos/Cardinals.png" alt="Cardinals" width="85%"></td>
+		<td style="text-align:center" bgcolor="white"><img src="{{site.url}}/img/MLB_logos/Braves.png" alt="Braves" width="85%"></td>
+		<td style="text-align:center" bgcolor="white"><img src="{{site.url}}/img/MLB_logos/Dodgers.png" alt="Dodgers" width="90%"></td>
 	</tr>
 </table>
 
 The Yankees-Red Sox race in the American League East should be thrilling again. The Yankees offense is terrifying and so is their bullpen, but I don't think they have the starting pitching depth to beat the Red Sox for the division crown. I don't expect things to be close in the other American League divisions. 
 
 The National League has the two most interesting divisions in the game this year. The races in the East and Central should be fascinating. Other than the Marlins, all of the teams in these two divisions are trying to win. I took my stab at predicting the final order, but I would not be too surprised by any ordering of the non-Marlins teams in the East, nor how the Cubs, Cardinals, and Brewers align in the top three spots of the Central.
-
 <br>
+
 ## Award Picks
 
 I have never fared well in picking the winners of the major awards. Here goes another shot:
@@ -109,5 +109,4 @@ I have never fared well in picking the winners of the major awards. Here goes an
 </table>
 
 <br>
-
 As always, I am excited that baseball is back and will revisit these predictions after the season.

@@ -23,7 +23,7 @@ Ideally I can repeat my 2016 performance with my predictions for the 2017 season
 
 Here are the teams I think will be playing meaningful baseball in October.
 
-<table style="width:100%" align="center">
+<table style="width:98%" align="center">
 	<tr>
 		<th style="text-align:center" bgcolor="gainsboro"> </th>
 		<th style="text-align:center" bgcolor="gainsboro">East</th>
@@ -36,22 +36,22 @@ Here are the teams I think will be playing meaningful baseball in October.
 	</tr>
 	<tr>
 		<th bgcolor="white">AL</th>
-		<td style="text-align:center" bgcolor="white"><img src="{{site.url}}/img/logos/RedSox.png" alt="Red Sox"></td>
-		<td style="text-align:center" bgcolor="white"><img src="{{site.url}}/img/logos/Indians.png" alt="Cleveland"></td>
-		<td style="text-align:center" bgcolor="white"><img src="{{site.url}}/img/logos/Astros.png" alt="Astros"></td>
-		<td style="text-align:center" bgcolor="white"><img src="{{site.url}}/img/logos/Mariners.png" alt="Mariners"></td>
-		<td style="text-align:center" bgcolor="white"><img src="{{site.url}}/img/logos/Rays.png" alt="Rays"></td>
-		<td style="text-align:center" bgcolor="white"><img src="{{site.url}}/img/logos/Indians.png" alt="Cleveland" width="70%"></td>
-		<td style="text-align:center" rowspan="2" bgcolor="white"><img src="{{site.url}}/img/logos/Indians.png" alt="Cleveland"></td>
+		<td style="text-align:center" bgcolor="white"><img src="{{site.url}}/img/MLB_logos/RedSox.png" alt="Red Sox" width="85%"></td>
+		<td style="text-align:center" bgcolor="white"><img src="{{site.url}}/img/MLB_logos/Cleveland.png" alt="Cleveland" width="85%"></td>
+		<td style="text-align:center" bgcolor="white"><img src="{{site.url}}/img/MLB_logos/Astros.png" alt="Astros" width="85%"></td>
+		<td style="text-align:center" bgcolor="white"><img src="{{site.url}}/img/MLB_logos/Mariners.png" alt="Mariners" width="85%"></td>
+		<td style="text-align:center" bgcolor="white"><img src="{{site.url}}/img/MLB_logos/Rays.png" alt="Rays" width="85%"></td>
+		<td style="text-align:center" bgcolor="white"><img src="{{site.url}}/img/MLB_logos/Cleveland.png" alt="Cleveland" width="90%"></td>
+		<td style="text-align:center" rowspan="2" bgcolor="white"><img src="{{site.url}}/img/MLB_logos/Cleveland.png" alt="Cleveland"></td>
 	</tr>
 	<tr>
 		<th bgcolor="white">NL</th>
-		<td style="text-align:center" bgcolor="white"><img src="{{site.url}}/img/logos/Nationals.png" alt="Nationals"></td>
-		<td style="text-align:center" bgcolor="white"><img src="{{site.url}}/img/logos/Cubs.png" alt="Cubs"></td>
-		<td style="text-align:center" bgcolor="white"><img src="{{site.url}}/img/logos/Dodgers.png" alt="Dodgers"></td>
-		<td style="text-align:center" bgcolor="white"><img src="{{site.url}}/img/logos/Mets.png" alt="Mets"></td>
-		<td style="text-align:center" bgcolor="white"><img src="{{site.url}}/img/logos/Giants.png" alt="Giants"></td>
-		<td style="text-align:center" bgcolor="white"><img src="{{site.url}}/img/logos/Dodgers.png" alt="Dodgers" width="70%"></td>
+		<td style="text-align:center" bgcolor="white"><img src="{{site.url}}/img/MLB_logos/Nationals.png" alt="Nationals" width="85%"></td>
+		<td style="text-align:center" bgcolor="white"><img src="{{site.url}}/img/MLB_logos/Cubs.png" alt="Cubs" width="85%"></td>
+		<td style="text-align:center" bgcolor="white"><img src="{{site.url}}/img/MLB_logos/Dodgers.png" alt="Dodgers" width="85%"></td>
+		<td style="text-align:center" bgcolor="white"><img src="{{site.url}}/img/MLB_logos/Mets.png" alt="Mets" width="85%"></td>
+		<td style="text-align:center" bgcolor="white"><img src="{{site.url}}/img/MLB_logos/Giants.png" alt="Giants" width="85%"></td>
+		<td style="text-align:center" bgcolor="white"><img src="{{site.url}}/img/MLB_logos/Dodgers.png" alt="Dodgers" width="90%"></td>
 	</tr>
 </table>
 

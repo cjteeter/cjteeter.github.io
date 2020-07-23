@@ -19,7 +19,7 @@ Predicting a 60-game season is even more foolish that predicting a 162-game seas
 
 These are the 10 teams I think will make the playoffs, the league champions, and the world series winner:
 
-<table style="width:100%" align="center">
+<table style="width:98%" align="center">
 	<tr>
 		<th style="text-align:center" bgcolor="gainsboro"> </th>
 		<th style="text-align:center" bgcolor="gainsboro">East</th>
@@ -32,22 +32,22 @@ These are the 10 teams I think will make the playoffs, the league champions, and
 	</tr>
 	<tr>
 		<th bgcolor="white">AL</th>
-		<td style="text-align:center" bgcolor="white"><img src="{{site.url}}/img/logos/Rays.png" alt="Rays" width="85%"></td>
-		<td style="text-align:center" bgcolor="white"><img src="{{site.url}}/img/logos/Twins.png" alt="Twins" width="85%"></td>
-		<td style="text-align:center" bgcolor="white"><img src="{{site.url}}/img/logos/Astros.png" alt="Astros" width="85%"></td>
-		<td style="text-align:center" bgcolor="white"><img src="{{site.url}}/img/logos/Yankees.png" alt="Yankees" width="85%"></td>
-		<td style="text-align:center" bgcolor="white"><img src="{{site.url}}/img/logos/Athletics.png" alt="Athletics" width="85%"></td>
-		<td style="text-align:center" bgcolor="white"><img src="{{site.url}}/img/logos/Astros.png" alt="Astros"></td>
-		<td style="text-align:center" rowspan="2" bgcolor="white"><img src="{{site.url}}/img/logos/Dodgers.png" alt="Dodgers"></td>
+		<td style="text-align:center" bgcolor="white"><img src="{{site.url}}/img/MLB_logos/Rays.png" alt="Rays" width="85%"></td>
+		<td style="text-align:center" bgcolor="white"><img src="{{site.url}}/img/MLB_logos/Twins.png" alt="Twins" width="85%"></td>
+		<td style="text-align:center" bgcolor="white"><img src="{{site.url}}/img/MLB_logos/Astros.png" alt="Astros" width="85%"></td>
+		<td style="text-align:center" bgcolor="white"><img src="{{site.url}}/img/MLB_logos/Yankees.png" alt="Yankees" width="85%"></td>
+		<td style="text-align:center" bgcolor="white"><img src="{{site.url}}/img/MLB_logos/Athletics.png" alt="Athletics" width="85%"></td>
+		<td style="text-align:center" bgcolor="white"><img src="{{site.url}}/img/MLB_logos/Astros.png" alt="Astros" width="90%"></td>
+		<td style="text-align:center" rowspan="2" bgcolor="white"><img src="{{site.url}}/img/MLB_logos/Dodgers.png" alt="Dodgers"></td>
 	</tr>
 	<tr>
 		<th bgcolor="white">NL</th>
-		<td style="text-align:center" bgcolor="white"><img src="{{site.url}}/img/logos/Braves.png" alt="Atlanta" width="85%"></td>
-		<td style="text-align:center" bgcolor="white"><img src="{{site.url}}/img/logos/Reds.png" alt="Reds" width="85%"></td>
-		<td style="text-align:center" bgcolor="white"><img src="{{site.url}}/img/logos/Dodgers.png" alt="Dodgers" width="85%"></td>
-		<td style="text-align:center" bgcolor="white"><img src="{{site.url}}/img/logos/Mets.png" alt="Mets" width="85%"></td>
-		<td style="text-align:center" bgcolor="white"><img src="{{site.url}}/img/logos/Padres.png" alt="Padres" width="85%"></td>
-		<td style="text-align:center" bgcolor="white"><img src="{{site.url}}/img/logos/Dodgers.png" alt="Dodgers"></td>
+		<td style="text-align:center" bgcolor="white"><img src="{{site.url}}/img/MLB_logos/Braves.png" alt="Atlanta" width="85%"></td>
+		<td style="text-align:center" bgcolor="white"><img src="{{site.url}}/img/MLB_logos/Reds.png" alt="Reds" width="85%"></td>
+		<td style="text-align:center" bgcolor="white"><img src="{{site.url}}/img/MLB_logos/Dodgers.png" alt="Dodgers" width="85%"></td>
+		<td style="text-align:center" bgcolor="white"><img src="{{site.url}}/img/MLB_logos/Mets.png" alt="Mets" width="85%"></td>
+		<td style="text-align:center" bgcolor="white"><img src="{{site.url}}/img/MLB_logos/Padres.png" alt="Padres" width="85%"></td>
+		<td style="text-align:center" bgcolor="white"><img src="{{site.url}}/img/MLB_logos/Dodgers.png" alt="Dodgers" width="90%"></td>
 	</tr>
 </table>
 

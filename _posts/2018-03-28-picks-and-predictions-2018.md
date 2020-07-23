@@ -22,7 +22,7 @@ shook out. Hopefully I can repeat my clairvoyance.
 
 Here are the 10 teams I think will make the playoffs, the league champions, and the world series winner:
 
-<table style="width:100%" align="center">
+<table style="width:98%" align="center">
 	<tr>
 		<th style="text-align:center" bgcolor="gainsboro"> </th>
 		<th style="text-align:center" bgcolor="gainsboro">East</th>
@@ -35,22 +35,22 @@ Here are the 10 teams I think will make the playoffs, the league champions, and 
 	</tr>
 	<tr>
 		<th bgcolor="white">AL</th>
-		<td style="text-align:center" bgcolor="white"><img src="{{site.url}}/img/logos/Yankees.png" alt="Yankees" width="85%"></td>
-		<td style="text-align:center" bgcolor="white"><img src="{{site.url}}/img/logos/Indians.png" alt="Cleveland" width="85%"></td>
-		<td style="text-align:center" bgcolor="white"><img src="{{site.url}}/img/logos/Astros.png" alt="Astros" width="85%"></td>
-		<td style="text-align:center" bgcolor="white"><img src="{{site.url}}/img/logos/RedSox.png" alt="Red Sox" width="85%"></td>
-		<td style="text-align:center" bgcolor="white"><img src="{{site.url}}/img/logos/Angels.png" alt="Angels" width="85%"></td>
-		<td style="text-align:center" bgcolor="white"><img src="{{site.url}}/img/logos/Astros.png" alt="Astros"></td>
-		<td style="text-align:center" rowspan="2" bgcolor="white"><img src="{{site.url}}/img/logos/Dodgers.png" alt="Dodgers"></td>
+		<td style="text-align:center" bgcolor="white"><img src="{{site.url}}/img/MLB_logos/Yankees.png" alt="Yankees" width="85%"></td>
+		<td style="text-align:center" bgcolor="white"><img src="{{site.url}}/img/MLB_logos/Cleveland.png" alt="Cleveland" width="85%"></td>
+		<td style="text-align:center" bgcolor="white"><img src="{{site.url}}/img/MLB_logos/Astros.png" alt="Astros" width="85%"></td>
+		<td style="text-align:center" bgcolor="white"><img src="{{site.url}}/img/MLB_logos/RedSox.png" alt="Red Sox" width="85%"></td>
+		<td style="text-align:center" bgcolor="white"><img src="{{site.url}}/img/MLB_logos/Angels.png" alt="Angels" width="85%"></td>
+		<td style="text-align:center" bgcolor="white"><img src="{{site.url}}/img/MLB_logos/Astros.png" alt="Astros" width="90%"></td>
+		<td style="text-align:center" rowspan="2" bgcolor="white"><img src="{{site.url}}/img/MLB_logos/Dodgers.png" alt="Dodgers"></td>
 	</tr>
 	<tr>
 		<th bgcolor="white">NL</th>
-		<td style="text-align:center" bgcolor="white"><img src="{{site.url}}/img/logos/Nationals.png" alt="Nationals" width="85%"></td>
-		<td style="text-align:center" bgcolor="white"><img src="{{site.url}}/img/logos/Cubs.png" alt="Cubs" width="85%"></td>
-		<td style="text-align:center" bgcolor="white"><img src="{{site.url}}/img/logos/Dodgers.png" alt="Dodgers" width="85%"></td>
-		<td style="text-align:center" bgcolor="white"><img src="{{site.url}}/img/logos/Cardinals.png" alt="Cardinals" width="85%"></td>
-		<td style="text-align:center" bgcolor="white"><img src="{{site.url}}/img/logos/Diamondbacks.png" alt="Diamondbacks" width="85%"></td>
-		<td style="text-align:center" bgcolor="white"><img src="{{site.url}}/img/logos/Dodgers.png" alt="Dodgers"></td>
+		<td style="text-align:center" bgcolor="white"><img src="{{site.url}}/img/MLB_logos/Nationals.png" alt="Nationals" width="85%"></td>
+		<td style="text-align:center" bgcolor="white"><img src="{{site.url}}/img/MLB_logos/Cubs.png" alt="Cubs" width="85%"></td>
+		<td style="text-align:center" bgcolor="white"><img src="{{site.url}}/img/MLB_logos/Dodgers.png" alt="Dodgers" width="85%"></td>
+		<td style="text-align:center" bgcolor="white"><img src="{{site.url}}/img/MLB_logos/Cardinals.png" alt="Cardinals" width="85%"></td>
+		<td style="text-align:center" bgcolor="white"><img src="{{site.url}}/img/MLB_logos/Diamondbacks.png" alt="Diamondbacks" width="85%"></td>
+		<td style="text-align:center" bgcolor="white"><img src="{{site.url}}/img/MLB_logos/Dodgers.png" alt="Dodgers" width="90%"></td>
 	</tr>
 </table>
 
