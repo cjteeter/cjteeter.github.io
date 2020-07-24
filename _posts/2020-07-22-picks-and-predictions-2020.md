@@ -56,6 +56,15 @@ With a couple of exceptions (e.g., Padres, Reds) this is not all that different 
 As an example, to start the 2019 season the Mariners went <a href = "https://www.baseball-reference.com/boxes/?month=4&day=11&year=2019" target = "_blank">13-2 in their first 15 games</a>. Some people were excited about this hot start but those aware of regression to the mean knew it was a mirage in a small number of games. Sure enough those Mariners went 55-92 in games 16:162, finishing 39 games out of first place in the AL West. But if a team gets out to a similarly hot start over the first 15 games of this shortened 2020 season, they don't even need to be good over their remaining 45 games to stay in the playoff mix. Combining a 13-2 start with 45 games of games-16:162-2019-Mariners level play would result in a 30-30 record and a decent shot at a Wild Card spot. Playing just .500 ball after a 13-2 start would get a team to 36 wins, which is enough to win a division. Basically, bad teams who have two good weeks could make the playoffs, just as good teams who have a bad two weeks could miss them. Embrace the chaos.
 <br>
 
+**Update** _(July 23, 2020)_
+
+The predictions above can _maybe_ mostly be ignored as hours before the season was set to start major league baseball and the players union agreed to a cockamamie scheme of expanded playoffs:
+
+<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">MLBPA has reportedly approved a proposal to expand the 2020 postseason. <a href="https://t.co/UZmiJ26ayM">https://t.co/UZmiJ26ayM</a> <a href="https://t.co/qcF0hpYQ3W">pic.twitter.com/qcF0hpYQ3W</a></p>&mdash; theScore (@theScore) <a href="https://twitter.com/theScore/status/1286396440433041409?ref_src=twsrc%5Etfw">July 23, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+16 teams - more than half - will make the playoffs this year, which I guess is fine in this wild and whacky 2020 season. It is a goofy season so I guess why not just go full goofy. My concern is that this is the sort of thing that will be used to justify doing it again in 2021 and beyond, which is bad and dumb. Baseball should recognize the importance and value of its regular season and small playoff field and stay away from turning itself into an October-Madness tournament.
+
+
 ## Award Picks
 
 Another stab at this silly task:
