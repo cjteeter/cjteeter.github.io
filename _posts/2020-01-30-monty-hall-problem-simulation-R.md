@@ -12,7 +12,7 @@ tags:
 - Monty Hall
 ---
 
-The <a href = "https://en.wikipedia.org/wiki/Monty_Hall_problem" target = "_blank">Monty Hall Problem</a> is a counter-intuitive statistical puzzle stemming from one of the situations presented to contestants on <a href = "https://en.wikipedia.org/wiki/Let%27s_Make_a_Deal" target = "_blank">*Let's Make a Deal*</a>. I was first exposed to the problem in an introductory Bayesian statistics course. Many months ago, I wrote code to simulating the problem for use as a possible teaching tool, but an opportunity to use it did not materialize so it has just sat on my hard drive ever since. I am not the first person to simulate this problem, but rather than leave it hidden away on my computer I figured I would revisit and work through it here.
+The <a href = "https://en.wikipedia.org/wiki/Monty_Hall_problem" target = "_blank">Monty Hall Problem</a> is a counter-intuitive statistical puzzle stemming from one of the situations presented to contestants on <a href = "https://en.wikipedia.org/wiki/Let%27s_Make_a_Deal" target = "_blank">*Let's Make a Deal*</a>. I was first exposed to the problem in an introductory Bayesian statistics course. Many months ago, I wrote code to simulate the problem and intended on using it as a teaching tool, but an opportunity to do so never materialized so it has sat idle on my hard drive ever since. I am not the first person to simulate this problem, but rather than leave it hidden away on my computer I figured I would revisit and work through it here.
 
 **The Problem**
 
