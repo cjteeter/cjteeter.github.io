@@ -35,11 +35,11 @@ Maybe the delayed start to the season and/or the lack of fans in attendance has 
 
 *__Update__* (October 20, 2020)
 
-After five weeks the 2020 EPL season continues to a scoring outlier:
+After five weeks the 2020 EPL season continues to be a scoring outlier:
 
 <center><img src="/img/posts/20201020/fig1a_EPLscoring_first5.png" width="78%"></center>
 
-After five weeks, we are seeing an average of 3.58 goals per match, which is down a bit from the mark at three weeks, but still well above previous years. This season is the only one to average more than three goals per match after five weeks.
+After five weeks, we are seeing an average of 3.58 goals per match, which is down a bit from the mark at three weeks, but still well above previous years. This season is the only one (at least since 2007) to average more than three goals per match after five weeks.
 
 Since 2017, <a href = "https://fbref.com/en/comps/9/Premier-League-Stats" target = "_blank">FootballReference.com</a> has published <a href = "https://fbref.com/en/expected-goals-model-explained/" target = "_blank">expected goals</a> (xG) for each team for each game (and over the season). The expected goal data come from <a href = "https://statsbomb.com/" target = "_blank">StatsBomb</a>. The basic concept of expected goals is that any shot a player takes has some likelihood of scoring given a set of characteristics (e.g., location, foot/head, defenders). A player in a crowd of defenders, shooting 21m from the goal? Not likely to find the back of the net. A player standing 1m from the goal without a defender within 2m? That is almost certainly going to be a goal. Sum all of these likelihoods over the course of a game and you get an expectation for how many goals a team _should have_ scored given their opportunities. Caution is required when looking at expected goals for any single game but when aggregated over many games (and many teams) it offers a useful indication of how teams _should be_ performing. Consistently getting high-likelihood-goal chances is a good sign for a team's future even if so far those good chances have not been converted into goals. And the opposite is also true. Teams may have been unusually fortunate in scoring on lower quality chances and could be in for a decline in scoring. 
 
@@ -51,7 +51,7 @@ Typically teams don't deviate too much from their expected level of scoring. Not
 
 It is important to note that the *quality* of chance (i.e., expected goals) has not varied much over these four seasons. It is just that for some reason -- juiced balls? -- in 2020 teams are getting more from their opportunities. 
 
-This xG analysis is still only descriptive. Players are finding ways to get their shots, even lower-quality ones, past keepers. But why this is happening remains unclear. The xG model from StatsBomb has been fairly accurate. I know it looks like it has been getting worse season-over-season in the figure above, but when using <a href = ""/img/posts/20201020/fig4b_EPLscoring_AvX.png" target = "_blank">full seasons</a> the error has actually been decreasing season-over-season. To me, unless there is some major scoring-factor that has changed, this suggests we are in for a few weeks of low-scoring (and underperforming expectation) games.
+This xG analysis is still only descriptive. Players are finding ways to get their shots, even lower-quality ones, past keepers. But why this is happening remains unclear. The xG model from StatsBomb has been fairly accurate. I know it looks like it has been getting worse season-over-season in the figure above, but when using <a href = "/img/posts/20201020/fig4b_EPLscoring_AvX.png" target = "_blank">full seasons</a> the error has actually been decreasing season-over-season. To me, unless there is some major scoring factor that has changed, this suggests we are in for a few weeks of low-scoring (and underperforming expectation) games.
 
 --
 
