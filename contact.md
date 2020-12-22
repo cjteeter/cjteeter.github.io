@@ -5,8 +5,7 @@ use-site-title: true
 show-avatar: true
 ---
 
-I am always open to receiving feedback on any of my work. If you have questions, comments, or concerns about anything I have written, developed,  
-and/or about aspects of this site, please do not hesitate to let me know. 
+I am always open to receiving feedback on any of my work. If you have questions, comments, or concerns about anything I have written, developed, and/or about aspects of this site, please do not hesitate to let me know. 
 
 You can do so using the form below:
 
