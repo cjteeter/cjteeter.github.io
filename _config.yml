@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # Simple GitHub user page (http://username.github.io) using these settings:
-url: "http://www.cteeter.ca"
+url: "https://www.cteeter.ca"
 baseurl: ""
 
 # Name of website
@@ -26,7 +26,7 @@ nav-search: "search"
 
 
 # Image to show in the navigation bar - image must be a square (width = height)
-avatar: "/img/CJT_w_CRT.png"
+# avatar: "/img/CJT_w_CRT.png"
 
 # Image logo in the top-left corner instead of the title text
 # title-img: "/img/CJT_w_CRT.png"
