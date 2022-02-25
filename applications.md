@@ -61,9 +61,14 @@ tr, td {
             <td bgcolor="white"><a href = "https://cjteeter.shinyapps.io/MLBTeamSynchrony/" target = "_blank"><b>MLB Team Synchrony</b></a> uses major league baseball data from 1998-present to allow users to examine how run scoring and run prevention vary over the course of a season, and how these can be <i>in-sync</i>, leading to periods of consistent results (wins or losses), or <i>out-of-sync</i>, leading to a one-step-forward-one-step-back feeling.</td>
         </tr>
     <!-- MPHEC Enrolment and Credentials Granted Row -->
-    	<tr>
-    		<td style="text-align:center" bgcolor="white"><div class="imgshadow"><a href = "https://mphec-cespm.shinyapps.io/interactiveopendata_EN/" target = "_blank"><img src="{{site.url}}/img/app4_mphec.png" alt="MPHEC Enrolment and Credentials"></a></div></td>
+    	 <tr>
+    		<td style="text-align:center" bgcolor="white"><div class="imgshadow"><a href = "https://mphec-cespm.shinyapps.io/interactiveopendata_EN/" target = "_blank"><img src="{{site.url}}/img/app4_mphecE&C.png" alt="MPHEC Enrolment and Credentials"></a></div></td>
     		<td bgcolor="white"><a href = "https://mphec-cespm.shinyapps.io/interactiveopendata_EN/" target = "_blank"><b>MPHEC Interactive Graphs: Enrolment and Credentials Granted</b></a> is an application I built for my current employer, the Maritime Provinces Higher Education Commission (MPHEC). It allows users to explore enrolment and credentials granted data from the universities in the three Maritime provinces. The application is also available in <a href = "https://mphec-cespm.shinyapps.io/interactiveopendata_FR/" target = "_blank"><em>French</em></a>.</td>
+       </tr>
+    <!-- MPHEC University Participation Rates Row -->
+    	<tr>
+    		<td style="text-align:center" bgcolor="white"><div class="imgshadow"><a href = "https://mphec-cespm.shinyapps.io/universityparticipation_EN/" target = "_blank"><img src="{{site.url}}/img/app5_mphecPR.png" alt="MPHEC University Participation"></a></div></td>
+    		<td bgcolor="white"><a href = "https://mphec-cespm.shinyapps.io/universityparticipation_EN/" target = "_blank"><b>MPHEC Interactive Graphs: University Participation</b></a> is another application I developed for the MPHEC. It allows users to explore data related to university participation rates within the three Maritime provinces. It is also available in <a href = "https://mphec-cespm.shinyapps.io/universityparticipation_FR/" target = "_blank"><em>French</em></a>.</td>
         </tr>
     <!-- Decision Maker Row -->
     	<tr>
