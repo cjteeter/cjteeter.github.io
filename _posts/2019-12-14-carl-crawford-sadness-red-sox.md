@@ -24,19 +24,19 @@ At the time of Crawford's signing in Boston, it was reasonable to argue that he 
 <tr> 
 	<th rowspan = "2" bgcolor = "gainsboro" valign = "bottom">Rk</th>
 	<th rowspan = "2" bgcolor = "gainsboro" valign = "bottom">Player</th>
-	<th rowspan = "2" bgcolor = "gainsboro" valign = "bottom">Pos</th>
-	<th rowspan = "2" bgcolor = "gainsboro" valign = "bottom">SimScore</th>
+	<th rowspan = "2" bgcolor = "gainsboro" valign = "bottom" style="text-align:center">Pos</th>
+	<th rowspan = "2" bgcolor = "gainsboro" valign = "bottom" style="text-align:center">SimScore</th>
 	<th colspan = "7" bgcolor = "gainsboro" style = "border-bottom: 1px solid black; text-align:center">bWAR by Age</th>
 	<th rowspan = "2" bgcolor = "gainsboro" valign = "bottom" style = "text-align:right">Total 29-34</th>
 </tr>
 <tr style = "border-bottom: 3px solid black">
-	<th bgcolor = "gainsboro">Thru28</th>
-	<th bgcolor = "gainsboro">29</th>
-	<th bgcolor = "gainsboro">30</th>
-	<th bgcolor = "gainsboro">31</th>
-	<th bgcolor = "gainsboro">32</th>
-	<th bgcolor = "gainsboro">33</th>
-	<th bgcolor = "gainsboro">34</th>
+	<th bgcolor = "gainsboro" style="text-align:center">Thru28</th>
+	<th bgcolor = "gainsboro" style="text-align:center">29</th>
+	<th bgcolor = "gainsboro" style="text-align:center">30</th>
+	<th bgcolor = "gainsboro" style="text-align:center">31</th>
+	<th bgcolor = "gainsboro" style="text-align:center">32</th>
+	<th bgcolor = "gainsboro" style="text-align:center">33</th>
+	<th bgcolor = "gainsboro" style="text-align:center">34</th>
 </tr>
 </thead>
 <tbody>
