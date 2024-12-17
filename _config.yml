@@ -37,7 +37,7 @@ navbar-links:
 author:
   name: Chris Teeter
   email: "christopher.teeter@gmail.com"
-  twitter: c_mcgeets
+#  twitter: c_mcgeets
   github: cjteeter
 #  reddit: yourname
 #  google-plus: +yourname
@@ -53,7 +53,7 @@ author:
 # Links to show in the footer
 footer-links-active:
   email: true
-  twitter: true
+  twitter: false
   github: true
   rss: true
   facebook: false
